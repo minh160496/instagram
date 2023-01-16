@@ -1,0 +1,2210 @@
+{
+  "edges": [
+    {
+      "__typename": "GraphImage",
+      "id": 1,
+      "gating_info": null,
+      "fact_check_overall_rating": null,
+      "fact_check_information": null,
+      "media_overlay_info": null,
+      "sensitivity_friction_info": null,
+      "sharing_friction_info": {
+        "should_have_sharing_friction": false,
+        "bloks_app_url": null
+      },
+      "dimensions": {
+        "height": 1350,
+        "width": 1080
+      },
+      "display_url": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323822234_1173274296723646_8903713424721142750_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=JPjG3C6ikM4AX_9xane&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCCpKi3oczJUIlYzkiOKJb4TFlSSwH2yfhRQbPDfWRbhg&oe=63BE040E&_nc_sid=86f79a",
+      "display_resources": [
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323822234_1173274296723646_8903713424721142750_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=JPjG3C6ikM4AX_9xane&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCj4MNjEwvYfkqiWuUuYWpjRnoLWwQ4IwBQrpQRgV2OtQ&oe=63BE040E&_nc_sid=86f79a",
+          "config_width": 640,
+          "config_height": 800
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323822234_1173274296723646_8903713424721142750_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=JPjG3C6ikM4AX_9xane&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBF05VK6Bp1dhjQF-SHvxuqZEzcNRGCUwZSbAJlSniF-Q&oe=63BE040E&_nc_sid=86f79a",
+          "config_width": 750,
+          "config_height": 937
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323822234_1173274296723646_8903713424721142750_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=JPjG3C6ikM4AX_9xane&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCCpKi3oczJUIlYzkiOKJb4TFlSSwH2yfhRQbPDfWRbhg&oe=63BE040E&_nc_sid=86f79a",
+          "config_width": 1080,
+          "config_height": 1350
+        }
+      ],
+      "is_video": false,
+      "media_preview": "ACIq5mpAoHLflRGhdgAM+1TNaTdSjH6DP8qAIcj0pzx4/wA/5/A0xo2T7wI+oIqdWyoz/un6dvyoArUU4iigCxaNtfcO3+FaQumH/wCoVkwEg8VcEzLxVrYzk7M0BeuO3HuKp6hIrqpVQpyc44z0pow3LZz/AEqvduGICjAH+cmhhG5CetFRE0VBoCnBzVlX3fWqlLTTsS1cuGTYPftVRmLHJptFDdxpWCiiikM//9k=",
+      "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZmI4ODc0NzlmMjQ4NDI5Y2I4ODYzMDlkMWZiYjMyYzkzMDEwMDU2MzgyMTgwMDczMDkzIiwic2VydmVyX3Rva2VuIjoiMTY3MzA2Mjc0ODYwM3wzMDEwMDU2MzgyMTgwMDczMDkzfDU3NjE3NzMxNTgzfDg4ZDc1Mzc1M2NkM2Y2ZjM2NTMxMGQ0NjU3YjUzYjM1OGM3NDI0YWFjZjkzMDVkZjMwZjU4YjE0YmUzYzVjN2MifSwic2lnbmF0dXJlIjoiIn0=",
+      "has_upcoming_event": false,
+      "edge_media_to_tagged_user": {
+        "edges": []
+      },
+      "accessibility_caption": null,
+      "edge_media_to_caption": {
+        "edges": [
+          {
+            "node": {
+              "text": "Window seat, please. 💺⁣\n⁣\nThis view from a window on the SpaceX Dragon Freedom spacecraft looks out at Baja California Sur and the Gulf of California as it was docked to the International Space Station (@iss) orbiting 261 miles (420 kilometers) above the Pacific Ocean.⁣\n⁣\nThis Dragon spacecraft journeyed to the @iss to deliver the #Crew5 space travelers to the orbiting laboratory.⁣\n⁣\nImagine you had a window seat to anywhere in the universe. Where would you want to go?⁣\n⁣\nImage Description: The oval window of the SpaceX Crew Dragon spacecraft frames the curvature of Earth and highlights the Baja California peninsula, surrounded by blue waters.⁣\n⁣\nCredit: NASA/Kjell Lindgren⁣\n⁣\n#NASA #Space #SpaceX #WindowSeat #Travel #Traveling #FlyAway #Earth"
+            }
+          }
+        ]
+      },
+      "shortcode": "CnF3lTlvZ6F",
+      "edge_media_to_comment": {
+        "count": 1854,
+        "page_info": {
+          "has_next_page": true,
+          "end_cursor": ""
+        },
+        "content": {
+          "user": [
+            {
+              "id": 1,
+              "body": "quá ok luôn bạn"
+            },
+            {
+              "id": 2,
+              "body": "bao giờ bạn đến"
+            },
+            {
+              "id": 3,
+              "body": "  "
+            },
+            {
+              "id": 4,
+              "body": "ok"
+            },
+            {
+              "id": 5,
+              "body": "    f"
+            },
+            {
+              "id": 6,
+              "body": "no"
+            },
+            {
+              "id": 7,
+              "body": "yes or no"
+            },
+            {
+              "id": 8,
+              "body": ""
+            },
+            {
+              "id": 9,
+              "body": ""
+            },
+            {
+              "id": 10,
+              "body": "o"
+            },
+            {
+              "id": 11,
+              "body": ""
+            },
+            {
+              "id": 12,
+              "body": ""
+            },
+            {
+              "id": 13,
+              "body": ""
+            },
+            {
+              "id": 14,
+              "body": ""
+            },
+            {
+              "id": 15,
+              "body": ""
+            },
+            {
+              "id": 16,
+              "body": "n"
+            },
+            {
+              "id": 17,
+              "body": "y"
+            },
+            {
+              "id": 18,
+              "body": "ok"
+            },
+            {
+              "id": 19,
+              "body": "oj"
+            },
+            {
+              "id": 20,
+              "body": "ok e"
+            },
+            {
+              "id": 21,
+              "body": "ok"
+            },
+            {
+              "id": 22,
+              "body": "ok nhes"
+            },
+            {
+              "id": 23,
+              "body": "123"
+            },
+            {
+              "id": 24,
+              "body": "456"
+            },
+            {
+              "id": 25,
+              "body": "dfdf"
+            },
+            {
+              "id": 26,
+              "body": "Yen xinh gai"
+            },
+            {
+              "id": 27,
+              "body": "comment yeu vo yeu"
+            },
+            {
+              "id": 28,
+              "body": "ok"
+            },
+            {
+              "id": 29,
+              "body": "not ok"
+            },
+            {
+              "id": 30,
+              "body": "nhas tri"
+            },
+            {
+              "id": 31,
+              "body": "ok"
+            },
+            {
+              "id": 32,
+              "body": "ok banj"
+            },
+            {
+              "id": 33,
+              "body": "ok"
+            }
+          ],
+          "other": [
+            {
+              "id": 1,
+              "name": "Anna",
+              "body": "This is My comment"
+            },
+            {
+              "id": 2,
+              "name": "Minh Lê",
+              "body": "Your are very beautiful"
+            },
+            {
+              "id": 3,
+              "name": "Minh lê",
+              "body": "Bài viết rất bổ ích"
+            }
+          ]
+        }
+      },
+      "edge_media_to_sponsor_user": {
+        "edges": []
+      },
+      "is_affiliate": false,
+      "is_paid_partnership": false,
+      "comments_disabled": false,
+      "taken_at_timestamp": 1673046704,
+      "edge_media_preview_like": {
+        "count": 688466,
+        "edges": []
+      },
+      "owner": {
+        "id": "528817151",
+        "username": "nasa",
+        "email": "nasa1145@gmail.com"
+      },
+      "location": null,
+      "nft_asset_info": null,
+      "viewer_has_liked": false,
+      "viewer_has_saved": false,
+      "viewer_has_saved_to_collection": false,
+      "viewer_in_photo_of_you": false,
+      "viewer_can_reshare": true,
+      "thumbnail_src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323822234_1173274296723646_8903713424721142750_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=JPjG3C6ikM4AX_9xane&edm=APU89FABAAAA&ccb=7-5&oh=00_AfD0NC-VZYdM2Ax6kCpWqmlgyYH-yFP0QMisQyWrriZgSQ&oe=63BE040E&_nc_sid=86f79a",
+      "thumbnail_resources": [
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323822234_1173274296723646_8903713424721142750_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e15_s150x150&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=JPjG3C6ikM4AX_9xane&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDwrf9IjMDBnrdvkUpZEO-CserdAQhVWyL0dgGVY6QxBA&oe=63BE040E&_nc_sid=86f79a",
+          "config_width": 150,
+          "config_height": 150
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323822234_1173274296723646_8903713424721142750_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e15_s240x240&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=JPjG3C6ikM4AX_9xane&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDhQq6ZMJ0KV3vlTi0a_S_efq2RzY_fzurF37PzUFuNSw&oe=63BE040E&_nc_sid=86f79a",
+          "config_width": 240,
+          "config_height": 240
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323822234_1173274296723646_8903713424721142750_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e15_s320x320&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=JPjG3C6ikM4AX_9xane&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAcsSSHeGFttA3nrZxreAjqUUuY8WBzT4dg1MLxivM36A&oe=63BE040E&_nc_sid=86f79a",
+          "config_width": 320,
+          "config_height": 320
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323822234_1173274296723646_8903713424721142750_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e15_s480x480&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=JPjG3C6ikM4AX_9xane&edm=APU89FABAAAA&ccb=7-5&oh=00_AfB4oqedKVkuhwBmnSN-1XRMArjOKIXlcsHANgGD1OcXtQ&oe=63BE040E&_nc_sid=86f79a",
+          "config_width": 480,
+          "config_height": 480
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323822234_1173274296723646_8903713424721142750_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=JPjG3C6ikM4AX_9xane&edm=APU89FABAAAA&ccb=7-5&oh=00_AfD0NC-VZYdM2Ax6kCpWqmlgyYH-yFP0QMisQyWrriZgSQ&oe=63BE040E&_nc_sid=86f79a",
+          "config_width": 640,
+          "config_height": 640
+        }
+      ],
+      "coauthor_producers": [],
+      "isVisited": true,
+      "pinned_for_users": [
+        {
+          "id": 1,
+          "src": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 2,
+          "src": "https://images.pexels.com/photos/1386604/pexels-photo-1386604.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 3,
+          "src": "https://images.pexels.com/photos/1391498/pexels-photo-1391498.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 4,
+          "src": "https://images.pexels.com/photos/1322129/pexels-photo-1322129.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 5,
+          "src": "https://images.pexels.com/photos/765062/pexels-photo-765062.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 6,
+          "src": "https://images.pexels.com/photos/36762/scarlet-honeyeater-bird-red-feathers.jpg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 7,
+          "src": "https://images.pexels.com/photos/1433052/pexels-photo-1433052.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 8,
+          "src": "https://images.pexels.com/photos/33045/lion-wild-africa-african.jpg?auto=compress&cs=tinysrgb&w=1600"
+        }
+      ]
+    },
+    {
+      "__typename": "GraphVideo",
+      "id": 2,
+      "gating_info": null,
+      "fact_check_overall_rating": null,
+      "fact_check_information": null,
+      "media_overlay_info": null,
+      "sensitivity_friction_info": null,
+      "sharing_friction_info": {
+        "should_have_sharing_friction": false,
+        "bloks_app_url": null
+      },
+      "dimensions": {
+        "height": 1333,
+        "width": 750
+      },
+      "display_url": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323822752_5822489331192402_1885937038759954361_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=E9UjSj1Ty3AAX_CN8rJ&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCOPnaxDGAR6ODK1QgBBjCJyxXdSO6t-5V_PUbs5jzkEA&oe=63BA88CD&_nc_sid=86f79a",
+      "display_resources": [
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323822752_5822489331192402_1885937038759954361_n.jpg?stp=dst-jpg_e15_p640x640&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=E9UjSj1Ty3AAX_CN8rJ&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBS0zETUw-7U7Qv3WpVV97Mp1A8Zm7G77cvk6g28QLprw&oe=63BD2BCD&_nc_sid=86f79a",
+          "config_width": 640,
+          "config_height": 1137
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323822752_5822489331192402_1885937038759954361_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=E9UjSj1Ty3AAX_CN8rJ&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCLfxIEKlfrBJtBKwfgsGWzeEpfcujL-Y6SPtDI_Tc-Pw&oe=63BD2BCD&_nc_sid=86f79a",
+          "config_width": 750,
+          "config_height": 1333
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323822752_5822489331192402_1885937038759954361_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=E9UjSj1Ty3AAX_CN8rJ&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCLfxIEKlfrBJtBKwfgsGWzeEpfcujL-Y6SPtDI_Tc-Pw&oe=63BD2BCD&_nc_sid=86f79a",
+          "config_width": 1080,
+          "config_height": 1920
+        }
+      ],
+      "is_video": true,
+      "media_preview": "ABgq5minpGz/AHRmpfs5xnIpXSHZleinMhU4PFFMRo2EhVSBxkj+vepfO2/wjj8Rz1496y45TGfUHqKsidMYx+AH9c1hKGrdtzRPQddMCg4wc/THA4+maKqySeYeeAOgorWKsrEN3ZFRRRVCCiiigD//2Q==",
+      "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZmI4ODc0NzlmMjQ4NDI5Y2I4ODYzMDlkMWZiYjMyYzkzMDA5Mjc5NTA3OTMwNTE0NDM1Iiwic2VydmVyX3Rva2VuIjoiMTY3MzA2Mjc0ODYwNHwzMDA5Mjc5NTA3OTMwNTE0NDM1fDU3NjE3NzMxNTgzfDM0MWVjYWUxNDk4M2ExODgwMzU5ZDY4MTRjMDNkNDBmN2ZkZjM1MDFkYmU3YjM3MmFjNWU1ZTBiZTQzMWY3MGUifSwic2lnbmF0dXJlIjoiIn0=",
+      "has_upcoming_event": false,
+      "edge_media_to_tagged_user": {
+        "edges": []
+      },
+      "dash_info": {
+        "is_dash_eligible": true,
+        "video_dash_manifest": "<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"urn:mpeg:dash:schema:mpd:2011 DASH-MPD.xsd\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011\" minBufferTime=\"PT2S\" type=\"static\" mediaPresentationDuration=\"PT23.96666717529297S\" maxSegmentDuration=\"PT0H0M5.016S\">\n  <Period id=\"0\" duration=\"PT23.96666717529297S\">\n    <AdaptationSet id=\"0\" contentType=\"video\" width=\"1080\" height=\"1920\" frameRate=\"15360/512\" subsegmentAlignment=\"true\" par=\"9:16\">\n      <Representation id=\"1385897638886056vd\" bandwidth=\"1144711\" codecs=\"vp09.00.40.08.00.01.01.01.00\" mimeType=\"video/mp4\" sar=\"1:1\" width=\"1080\" height=\"1920\" FBQualityClass=\"hd\" FBQualityLabel=\"1080w\" FBPlaybackResolutionMos=\"0:100.00,360:97.57,480:96.39,720:93.96,1080:88.63\">\n        <BaseURL urlExpiration=\"1673171259\">https://scontent-waw1-1.cdninstagram.com/v/t66.30100-16/319176083_698364791659795_693536604127860430_n.mp4?_nc_ht=scontent-waw1-1.cdninstagram.com&amp;_nc_cat=1&amp;_nc_ohc=yZj5cJTYQa8AX9277Aj&amp;edm=APU89FABAAAA&amp;ccb=7-5&amp;oh=00_AfBQG3vcdo6sbi1oxzXTEiCeZao2-Uwn_3-YtoVGO__8Cw&amp;oe=63BA913B&amp;_nc_sid=86f79a</BaseURL>\n        <SegmentBase indexRange=\"792-883\" timescale=\"15360\" FBFirstSegmentRange=\"884-696362\" FBSecondSegmentRange=\"696363-1417596\" FBPrefetchSegmentRange=\"884-1417596\">\n          <Initialization range=\"0-791\"/>\n        </SegmentBase>\n      </Representation>\n    <Representation id=\"1125533841644169v\" bandwidth=\"183387\" codecs=\"vp09.00.31.08.00.01.01.01.00\" mimeType=\"video/mp4\" sar=\"1:1\" width=\"720\" height=\"1280\" FBQualityClass=\"hd\" FBQualityLabel=\"720w\" FBPlaybackResolutionMos=\"0:100.00,360:89.80,480:86.09,720:79.42,1080:72.30\">\n        <BaseURL urlExpiration=\"1673185275\">https://scontent-waw1-1.cdninstagram.com/v/t66.30100-16/323730294_521568103405258_1540926166719981979_n.mp4?_nc_ht=scontent-waw1-1.cdninstagram.com&amp;_nc_cat=1&amp;_nc_ohc=LU87kUrkxW4AX_yYPDY&amp;tn=0B2WRHKYYn02g1Cu&amp;edm=APU89FABAAAA&amp;ccb=7-5&amp;oh=00_AfCTF-DwQuV9JQ0piZFXqsYEJxaQoz3CVj8_qHaZTWMj9g&amp;oe=63BAC7FB&amp;_nc_sid=86f79a</BaseURL>\n        <SegmentBase indexRange=\"792-883\" timescale=\"15360\" FBFirstSegmentRange=\"884-112656\" FBSecondSegmentRange=\"112657-227765\" FBPrefetchSegmentRange=\"884-227765\">\n          <Initialization range=\"0-791\"/>\n        </SegmentBase>\n      </Representation>\n    <Representation id=\"875187437063353v\" bandwidth=\"338951\" codecs=\"vp09.00.31.08.00.01.01.01.00\" mimeType=\"video/mp4\" sar=\"1:1\" width=\"720\" height=\"1280\" FBQualityClass=\"hd\" FBQualityLabel=\"720w\" FBPlaybackResolutionMos=\"0:100.00,360:93.71,480:91.07,720:85.82,1080:77.64\">\n        <BaseURL urlExpiration=\"1673178664\">https://scontent-waw1-1.cdninstagram.com/v/t66.30100-16/121805761_143135571604424_7908529718083743002_n.mp4?_nc_ht=scontent-waw1-1.cdninstagram.com&amp;_nc_cat=1&amp;_nc_ohc=dZXnPgjNnKcAX-QKNtZ&amp;edm=APU89FABAAAA&amp;ccb=7-5&amp;oh=00_AfCDSZ9EOEFZpSaO2QZc1PzTCLryKmbqPBkKKahnsXmK2Q&amp;oe=63BAAE28&amp;_nc_sid=86f79a</BaseURL>\n        <SegmentBase indexRange=\"792-883\" timescale=\"15360\" FBFirstSegmentRange=\"884-206592\" FBSecondSegmentRange=\"206593-418970\" FBPrefetchSegmentRange=\"884-418970\">\n          <Initialization range=\"0-791\"/>\n        </SegmentBase>\n      </Representation>\n    <Representation id=\"3025857084385381v\" bandwidth=\"618638\" codecs=\"vp09.00.31.08.00.01.01.01.00\" mimeType=\"video/mp4\" sar=\"1:1\" width=\"720\" height=\"1280\" FBQualityClass=\"hd\" FBQualityLabel=\"720w\" FBPlaybackResolutionMos=\"0:100.00,360:96.02,480:94.33,720:90.16,1080:83.39\">\n        <BaseURL urlExpiration=\"1673168934\">https://scontent-waw1-1.cdninstagram.com/v/t66.30100-16/122426595_145522981627073_2738714778151179304_n.mp4?_nc_ht=scontent-waw1-1.cdninstagram.com&amp;_nc_cat=1&amp;_nc_ohc=DIs2i8OhSqIAX9FptQL&amp;edm=APU89FABAAAA&amp;ccb=7-5&amp;oh=00_AfD0UvB75ZzSNhlNzqBO-qPie2RZELI1Gkiwu3gCXaBDMw&amp;oe=63BA8826&amp;_nc_sid=86f79a</BaseURL>\n        <SegmentBase indexRange=\"792-883\" timescale=\"15360\" FBFirstSegmentRange=\"884-375931\" FBSecondSegmentRange=\"375932-766550\" FBPrefetchSegmentRange=\"884-766550\">\n          <Initialization range=\"0-791\"/>\n        </SegmentBase>\n      </Representation>\n    </AdaptationSet>\n  <AdaptationSet segmentAlignment=\"true\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"837849700634757ad\" mimeType=\"audio/mp4\" codecs=\"mp4a.40.5\" audioSamplingRate=\"44100\" startWithSAP=\"1\" bandwidth=\"87863\">\n    <AudioChannelConfiguration schemeIdUri=\"urn:mpeg:dash:23003:3:audio_channel_configuration:2011\" value=\"2\"/>\n    <BaseURL urlExpiration=\"1673163104\">https://scontent-waw1-1.cdninstagram.com/v/t66.30100-16/317273471_885021159581432_5073808867378954673_n.mp4?_nc_ht=scontent-waw1-1.cdninstagram.com&amp;_nc_cat=1&amp;_nc_ohc=tST5G6-_FGwAX9ZV_3l&amp;edm=APU89FABAAAA&amp;ccb=7-5&amp;oh=00_AfCKkVbp4Jkd08lflaWUFS5xPgfiOzXu0Jl9YCoTKPEsjw&amp;oe=63BA7160&amp;_nc_sid=86f79a</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"783-874\" FBFirstSegmentRange=\"875-53824\" FBSecondSegmentRange=\"53825-109456\" FBPrefetchSegmentRange=\"875-109456\">\n      <Initialization range=\"0-782\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n </Period>\n</MPD>",
+        "number_of_qualities": 4
+      },
+      "has_audio": true,
+      "video_url": "https://scontent-waw1-1.cdninstagram.com/v/t66.30100-16/324276343_116750661155957_5045052170212631888_n.mp4?_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=105&_nc_ohc=pTKzUwPpgEQAX-i8F2t&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCz0UhNn6ngu96qEI1xRuuZUm3JuQx9FMr52NftZQ3A-Q&oe=63BA7CDB&_nc_sid=86f79a",
+      "video_view_count": 6342434,
+      "edge_media_to_caption": {
+        "edges": [
+          {
+            "node": {
+              "text": "Time for some Sun salutations 🧘⁣\n⁣\nFlow through a week of solar activity, from Nov. 1 to Nov. 8, 2022, as captured by our Solar Dynamics Observatory or SDO. From its orbit in space around Earth, SDO has steadily imaged the Sun in 4k resolution for nearly 13 years. ⁣\n⁣\nLooking for a longer solar soundtrack to power your practice? Checkout youtube.com/NASA/community for a full 133 days of solar observations to the tune of lo-fi beats. ⁣\n⁣\nVideo description: Mellow music plays as compiled images taken every 108 seconds condenses 7 days of solar observations, between Nov. 1 and Nov. 8 into 23 seconds. The video shows bright active regions passing across the face of the Sun as it rotates.⁣\n⁣\nCredit: @nasagoddard, Scott Wiessinger (Lead Producer and editor), Tom Bridgman (Lead Visualizer), Lars Leonhard (Music)⁣\n⁣\n#NASA #Sun #Solarsystem #SolarPower #SunSalutations #SDO #Space #Star"
+            }
+          }
+        ]
+      },
+      "shortcode": "CnDG8TED4QD",
+      "edge_media_to_comment": {
+        "count": 4974,
+        "page_info": {
+          "has_next_page": true,
+          "end_cursor": ""
+        },
+        "content": {
+          "user": [
+            {
+              "id": 1,
+              "body": "Bạn đẹp trai đấy"
+            },
+            {
+              "id": 2,
+              "body": "tôi bình thường mà bạn"
+            },
+            {
+              "id": 3,
+              "body": "ok ban oi"
+            },
+            {
+              "id": 4,
+              "body": "ok ae"
+            }
+          ],
+          "other": [
+            {
+              "id": 1,
+              "name": "Anna",
+              "body": "This is My comment"
+            },
+            {
+              "id": 2,
+              "name": "Minh Lê",
+              "body": "Your are very beautiful"
+            }
+          ]
+        }
+      },
+      "edge_media_to_sponsor_user": {
+        "edges": []
+      },
+      "is_affiliate": false,
+      "is_paid_partnership": false,
+      "comments_disabled": false,
+      "taken_at_timestamp": 1672954348,
+      "edge_media_preview_like": {
+        "count": 1832007,
+        "edges": []
+      },
+      "owner": {
+        "id": "528817152",
+        "username": "Jescica",
+        "email": "Jesica1145@gmail.com"
+      },
+      "location": null,
+      "nft_asset_info": null,
+      "viewer_has_liked": true,
+      "viewer_has_saved": false,
+      "viewer_has_saved_to_collection": false,
+      "viewer_in_photo_of_you": false,
+      "viewer_can_reshare": true,
+      "thumbnail_src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323822752_5822489331192402_1885937038759954361_n.jpg?stp=c0.280.720.720a_dst-jpg_e15_s640x640&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=E9UjSj1Ty3AAX_CN8rJ&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAIYTizFCNLTLu0i-C8JwaGtLmorO3vB61xIIM-gWBeEA&oe=63BA88CD&_nc_sid=86f79a",
+      "thumbnail_resources": [
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323822752_5822489331192402_1885937038759954361_n.jpg?stp=c0.280.720.720a_dst-jpg_e15_s150x150&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=E9UjSj1Ty3AAX_CN8rJ&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBZIJrEZyHM49VGijcGHN870woJ7BhRIUOIBrZOAMYuGg&oe=63BD2BCD&_nc_sid=86f79a",
+          "config_width": 150,
+          "config_height": 150
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323822752_5822489331192402_1885937038759954361_n.jpg?stp=c0.280.720.720a_dst-jpg_e15_s240x240&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=E9UjSj1Ty3AAX_CN8rJ&edm=APU89FABAAAA&ccb=7-5&oh=00_AfB9s1wy97e4cRMYREttSW8ge7-i30jeQ2KNDWqpcUoR9w&oe=63BD2BCD&_nc_sid=86f79a",
+          "config_width": 240,
+          "config_height": 240
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323822752_5822489331192402_1885937038759954361_n.jpg?stp=c0.280.720.720a_dst-jpg_e15_s320x320&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=E9UjSj1Ty3AAX_CN8rJ&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDbah3H2Le2tCV61VO_7uVeJtRRL_GPi0GlhPq6BTyNWQ&oe=63BD2BCD&_nc_sid=86f79a",
+          "config_width": 320,
+          "config_height": 320
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323822752_5822489331192402_1885937038759954361_n.jpg?stp=c0.280.720.720a_dst-jpg_e15_s480x480&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=E9UjSj1Ty3AAX_CN8rJ&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAp8fq6cF4SjadOTqQA-A2lqLKZpOKQFej7td_nqtSeaQ&oe=63BD2BCD&_nc_sid=86f79a",
+          "config_width": 480,
+          "config_height": 480
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323822752_5822489331192402_1885937038759954361_n.jpg?stp=c0.280.720.720a_dst-jpg_e15_s640x640&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=E9UjSj1Ty3AAX_CN8rJ&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDiyyiLGne5whfMsA2KBs7TIPoh5Hr0dzg0vf8GO-4NAA&oe=63BD2BCD&_nc_sid=86f79a",
+          "config_width": 640,
+          "config_height": 640
+        }
+      ],
+      "coauthor_producers": [],
+      "isVisited": true,
+      "pinned_for_users": [
+        {
+          "id": 1,
+          "src": "https://images.pexels.com/photos/1468379/pexels-photo-1468379.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 2,
+          "src": "https://images.pexels.com/photos/33109/fall-autumn-red-season.jpg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 3,
+          "src": "https://images.pexels.com/photos/2100553/pexels-photo-2100553.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 4,
+          "src": "https://images.pexels.com/photos/45853/grey-crowned-crane-bird-crane-animal-45853.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 5,
+          "src": "https://images.pexels.com/photos/765062/pexels-photo-765062.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 6,
+          "src": "https://images.pexels.com/photos/36762/scarlet-honeyeater-bird-red-feathers.jpg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 7,
+          "src": "https://images.pexels.com/photos/1433052/pexels-photo-1433052.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 8,
+          "src": "https://images.pexels.com/photos/33045/lion-wild-africa-african.jpg?auto=compress&cs=tinysrgb&w=1600"
+        }
+      ],
+      "product_type": "clips"
+    },
+    {
+      "__typename": "GraphSidecar",
+      "id": 3,
+      "gating_info": null,
+      "fact_check_overall_rating": null,
+      "fact_check_information": null,
+      "media_overlay_info": null,
+      "sensitivity_friction_info": null,
+      "sharing_friction_info": {
+        "should_have_sharing_friction": false,
+        "bloks_app_url": null
+      },
+      "dimensions": {
+        "height": 1080,
+        "width": 1080
+      },
+      "display_url": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323949849_751169173394053_7325502033584911721_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=fJXLMgFuJ5YAX-egpkn&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAkXG1WYkbrP-4AjBy_GOa7N-BbGzgaNhR_l9zx1Xvwpg&oe=63BD4415&_nc_sid=86f79a",
+      "display_resources": [
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323949849_751169173394053_7325502033584911721_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=fJXLMgFuJ5YAX-egpkn&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCbm36gbZLwyv-nEWBW2CS7-adK73jENdyHq5sgMVkl3g&oe=63BD4415&_nc_sid=86f79a",
+          "config_width": 640,
+          "config_height": 640
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323949849_751169173394053_7325502033584911721_n.jpg?stp=dst-jpg_e35_s750x750_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=fJXLMgFuJ5YAX-egpkn&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDR-7AUb9p0fKheCFoQdxGz6qWFKmVdlKYlN9IxQ6De2g&oe=63BD4415&_nc_sid=86f79a",
+          "config_width": 750,
+          "config_height": 750
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323949849_751169173394053_7325502033584911721_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=fJXLMgFuJ5YAX-egpkn&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAkXG1WYkbrP-4AjBy_GOa7N-BbGzgaNhR_l9zx1Xvwpg&oe=63BD4415&_nc_sid=86f79a",
+          "config_width": 1080,
+          "config_height": 1080
+        }
+      ],
+      "is_video": false,
+      "media_preview": null,
+      "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZmI4ODc0NzlmMjQ4NDI5Y2I4ODYzMDlkMWZiYjMyYzkzMDA4NTU3OTI0ODc5OTAyNTIwIiwic2VydmVyX3Rva2VuIjoiMTY3MzA2Mjc0ODYwNHwzMDA4NTU3OTI0ODc5OTAyNTIwfDU3NjE3NzMxNTgzfGZkZDJjYjkwYjdmNDVkN2ViNzI5ODFkZDM2NGU3NWQ5YjRkYzI0OTU0NWE4Yzg2OTZkZGRmYmI0YmYwMzQ2MzEifSwic2lnbmF0dXJlIjoiIn0=",
+      "has_upcoming_event": false,
+      "edge_media_to_tagged_user": {
+        "edges": []
+      },
+      "accessibility_caption": null,
+      "edge_media_to_caption": {
+        "edges": [
+          {
+            "node": {
+              "text": "Three Amigos⁣\n⁣\n@NASAHubble, @NASAChandraXray, and NASA's Spitzer Space Telescope captured the heart of our Milky Way galaxy using two different spectrums of light, infrared and X-ray. The telescopes peered through the dust and debris that obscure the core of our galaxy – which is visible as the bright white region to the right and just below the center of the image.⁣\n⁣\nThe Hubble telescope – which typically captures the cosmos in visible light – unveils the stellar winds and radiation that our heated by massive stars that make up the galactic center region in infrared, seen here in yellow and gold. ⁣\n⁣\nSpitzer also viewed our galaxy in infrared in a more detailed view and showed the turbulent core of the galaxy, which consists of hundreds of thousands of stars and stellar nurseries – areas that create the next generation of stars. Spitzer's view is seen in red and orange.⁣\n⁣\nOur Chandra X-ray Observatory shows the galactic core in pink and blue, where pink represents lower energy X-rays, and blue represents higher energy. A supermassive black hole at the center of our galaxy diffuses X-ray light in the bottom right of the image.⁣\n⁣\nImage description: Swirling colors of red, orange, yellow, gold, pink, and blue dominate this image. At the middle-bottom-right of the photo, the core of our galaxy shines bright. Interstellar dust and radiation combine to create a brilliant tapestry backed by the blackness of space.⁣\n⁣\nCredit: NASA/JPL-Caltech/ESA/CXC/STScI⁣\n⁣\n#MilkyWay #Stars #Core #Galaxy #NASA #Space #Telescope"
+            }
+          }
+        ]
+      },
+      "shortcode": "CnAi34epyc4",
+      "edge_media_to_comment": {
+        "count": 2704,
+        "page_info": {
+          "has_next_page": true,
+          "end_cursor": ""
+        },
+        "content": {
+          "user": [
+            {
+              "id": 1,
+              "body": "Yeens xin gai"
+            },
+            {
+              "id": 2,
+              "body": "ok"
+            },
+            {
+              "id": 3,
+              "body": "ok"
+            },
+            {
+              "id": 4,
+              "body": "ok"
+            }
+          ],
+          "other": [
+            {
+              "id": 1,
+              "name": "Anna",
+              "body": "This is My comment"
+            },
+            {
+              "id": 2,
+              "name": "Minh Lê",
+              "body": "Your are very beautiful"
+            }
+          ]
+        }
+      },
+      "edge_media_to_sponsor_user": {
+        "edges": []
+      },
+      "is_affiliate": false,
+      "is_paid_partnership": false,
+      "comments_disabled": false,
+      "taken_at_timestamp": 1672868074,
+      "edge_media_preview_like": {
+        "count": 1755741,
+        "edges": []
+      },
+      "owner": {
+        "id": "528817153",
+        "username": "Holiwoodica",
+        "email": "Holy1145@gmail.com"
+      },
+      "location": null,
+      "nft_asset_info": null,
+      "viewer_has_liked": true,
+      "viewer_has_saved": false,
+      "viewer_has_saved_to_collection": false,
+      "viewer_in_photo_of_you": false,
+      "viewer_can_reshare": true,
+      "thumbnail_src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323949849_751169173394053_7325502033584911721_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=fJXLMgFuJ5YAX-egpkn&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCbm36gbZLwyv-nEWBW2CS7-adK73jENdyHq5sgMVkl3g&oe=63BD4415&_nc_sid=86f79a",
+      "thumbnail_resources": [
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323949849_751169173394053_7325502033584911721_n.jpg?stp=dst-jpg_e35_s150x150&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=fJXLMgFuJ5YAX-egpkn&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAxWAE_tX8rT4tPYNQf1IjlgO7Adu1tbpUTtmafNRwqTA&oe=63BD4415&_nc_sid=86f79a",
+          "config_width": 150,
+          "config_height": 150
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323949849_751169173394053_7325502033584911721_n.jpg?stp=dst-jpg_e35_s240x240&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=fJXLMgFuJ5YAX-egpkn&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCySu0sajbh1_TJab4wY5AXIkLox1g6KzKWp8DSOsHamw&oe=63BD4415&_nc_sid=86f79a",
+          "config_width": 240,
+          "config_height": 240
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323949849_751169173394053_7325502033584911721_n.jpg?stp=dst-jpg_e35_s320x320&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=fJXLMgFuJ5YAX-egpkn&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAW2fu5ZoR_zBeDSeqi1UI1F59aRpjIRklODgr8CPhAkQ&oe=63BD4415&_nc_sid=86f79a",
+          "config_width": 320,
+          "config_height": 320
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323949849_751169173394053_7325502033584911721_n.jpg?stp=dst-jpg_e35_s480x480&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=fJXLMgFuJ5YAX-egpkn&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDIFS2mNOvuzBI232vEXErfVIfPpH8z2AG3mdMW-vGtpg&oe=63BD4415&_nc_sid=86f79a",
+          "config_width": 480,
+          "config_height": 480
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323949849_751169173394053_7325502033584911721_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=fJXLMgFuJ5YAX-egpkn&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCbm36gbZLwyv-nEWBW2CS7-adK73jENdyHq5sgMVkl3g&oe=63BD4415&_nc_sid=86f79a",
+          "config_width": 640,
+          "config_height": 640
+        }
+      ],
+      "coauthor_producers": [],
+      "isVisited": true,
+      "pinned_for_users": [
+        {
+          "id": 1,
+          "src": "https://images.pexels.com/photos/921646/pexels-photo-921646.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 2,
+          "src": "https://images.pexels.com/photos/33109/fall-autumn-red-season.jpg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 3,
+          "src": "https://images.pexels.com/photos/1279903/pexels-photo-1279903.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 4,
+          "src": "https://images.pexels.com/photos/45853/grey-crowned-crane-bird-crane-animal-45853.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 5,
+          "src": "https://images.pexels.com/photos/765062/pexels-photo-765062.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 6,
+          "src": "https://images.pexels.com/photos/36762/scarlet-honeyeater-bird-red-feathers.jpg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 7,
+          "src": "https://images.pexels.com/photos/1433052/pexels-photo-1433052.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 8,
+          "src": "https://images.pexels.com/photos/33045/lion-wild-africa-african.jpg?auto=compress&cs=tinysrgb&w=1600"
+        }
+      ],
+      "edge_sidecar_to_children": {
+        "edges": [
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": 3008557919880242700,
+              "gating_info": null,
+              "fact_check_overall_rating": null,
+              "fact_check_information": null,
+              "media_overlay_info": null,
+              "sensitivity_friction_info": null,
+              "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+              },
+              "dimensions": {
+                "height": 1080,
+                "width": 1080
+              },
+              "display_url": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323949849_751169173394053_7325502033584911721_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=fJXLMgFuJ5YAX-egpkn&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAkXG1WYkbrP-4AjBy_GOa7N-BbGzgaNhR_l9zx1Xvwpg&oe=63BD4415&_nc_sid=86f79a",
+              "display_resources": [
+                {
+                  "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323949849_751169173394053_7325502033584911721_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=fJXLMgFuJ5YAX-egpkn&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCbm36gbZLwyv-nEWBW2CS7-adK73jENdyHq5sgMVkl3g&oe=63BD4415&_nc_sid=86f79a",
+                  "config_width": 640,
+                  "config_height": 640
+                },
+                {
+                  "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323949849_751169173394053_7325502033584911721_n.jpg?stp=dst-jpg_e35_s750x750_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=fJXLMgFuJ5YAX-egpkn&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDR-7AUb9p0fKheCFoQdxGz6qWFKmVdlKYlN9IxQ6De2g&oe=63BD4415&_nc_sid=86f79a",
+                  "config_width": 750,
+                  "config_height": 750
+                },
+                {
+                  "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323949849_751169173394053_7325502033584911721_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=fJXLMgFuJ5YAX-egpkn&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAkXG1WYkbrP-4AjBy_GOa7N-BbGzgaNhR_l9zx1Xvwpg&oe=63BD4415&_nc_sid=86f79a",
+                  "config_width": 1080,
+                  "config_height": 1080
+                }
+              ],
+              "is_video": false,
+              "media_preview": "ACoqwaXFKQRTwM1qUIqg9ak2L0p68dAD9alKAjJGO3B4qSymVHbpTcVbEWM57Un2d/Si9hctyW3t/O4pkkHltio45Sh4qYvu56mrWxlZ3v0GbTT9pHWp1kA7kDGOKYGP1pqLZbaDOfWo8GpCeadmq5R83mZYqZTUFSCoRBOKmyMcVCtKa2RmwLnOKfk+1V+9OqblH//Z",
+              "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZmI4ODc0NzlmMjQ4NDI5Y2I4ODYzMDlkMWZiYjMyYzkzMDA4NTU3OTE5ODgwMjQyNjcxIiwic2VydmVyX3Rva2VuIjoiMTY3MzA2Mjc0ODYwNXwzMDA4NTU3OTE5ODgwMjQyNjcxfDU3NjE3NzMxNTgzfDQ2NzdkMzU3YjE3YWU4MzY0MGUyYTQwMWZlZmQ5YTEzN2VlYWNhNDZhMDA4NTQ4ZTZjM2I0OTg2MjU1YmZjOGQifSwic2lnbmF0dXJlIjoiIn0=",
+              "has_upcoming_event": false,
+              "edge_media_to_tagged_user": {
+                "edges": []
+              },
+              "accessibility_caption": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": 3008557919880274000,
+              "gating_info": null,
+              "fact_check_overall_rating": null,
+              "fact_check_information": null,
+              "media_overlay_info": null,
+              "sensitivity_friction_info": null,
+              "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+              },
+              "dimensions": {
+                "height": 1080,
+                "width": 1080
+              },
+              "display_url": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323889415_946855620056496_5273033741258651380_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=uBFHdZHlYLwAX-aMLqX&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAq4vs-evlBmA07mZh8aJkjhfQrEk98I2z1qH7HxyKQnQ&oe=63BDAED8&_nc_sid=86f79a",
+              "display_resources": [
+                {
+                  "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323889415_946855620056496_5273033741258651380_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=uBFHdZHlYLwAX-aMLqX&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDGQfZf2MnwOR31hNj2qjxL8gniQd11J7OK1YIRfCo_Uw&oe=63BDAED8&_nc_sid=86f79a",
+                  "config_width": 640,
+                  "config_height": 640
+                },
+                {
+                  "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323889415_946855620056496_5273033741258651380_n.jpg?stp=dst-jpg_e35_s750x750_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=uBFHdZHlYLwAX-aMLqX&edm=APU89FABAAAA&ccb=7-5&oh=00_AfD3GG0khsHSbpfNkbgV7y-phKI7R-5WRDF5W6QIhzMotg&oe=63BDAED8&_nc_sid=86f79a",
+                  "config_width": 750,
+                  "config_height": 750
+                },
+                {
+                  "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323889415_946855620056496_5273033741258651380_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=uBFHdZHlYLwAX-aMLqX&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAq4vs-evlBmA07mZh8aJkjhfQrEk98I2z1qH7HxyKQnQ&oe=63BDAED8&_nc_sid=86f79a",
+                  "config_width": 1080,
+                  "config_height": 1080
+                }
+              ],
+              "is_video": false,
+              "media_preview": null,
+              "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZmI4ODc0NzlmMjQ4NDI5Y2I4ODYzMDlkMWZiYjMyYzkzMDA4NTU3OTE5ODgwMjc0MDgxIiwic2VydmVyX3Rva2VuIjoiMTY3MzA2Mjc0ODYwNXwzMDA4NTU3OTE5ODgwMjc0MDgxfDU3NjE3NzMxNTgzfGUzZjU5NDg4YjBlMTI5MzAzNDE3ZjlhMGQyMDZmZGU2NjliMTQ0OGIxYzc3ODU1MmE0ZTdkZTEzMjI5OGVhYjkifSwic2lnbmF0dXJlIjoiIn0=",
+              "has_upcoming_event": false,
+              "edge_media_to_tagged_user": {
+                "edges": []
+              },
+              "accessibility_caption": null
+            }
+          }
+        ]
+      }
+    },
+    {
+      "__typename": "GraphImage",
+      "id": 4,
+      "gating_info": null,
+      "fact_check_overall_rating": null,
+      "fact_check_information": null,
+      "media_overlay_info": null,
+      "sensitivity_friction_info": null,
+      "sharing_friction_info": {
+        "should_have_sharing_friction": false,
+        "bloks_app_url": null
+      },
+      "dimensions": {
+        "height": 720,
+        "width": 1080
+      },
+      "display_url": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323185649_2306558022847383_4874075460766177649_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=uA20YrZloTkAX-PNuGN&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBWIhKTfveNEzDUMf3hqdY3u2UYM5C0dCBClMzkIfsweQ&oe=63BD3BF6&_nc_sid=86f79a",
+      "display_resources": [
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323185649_2306558022847383_4874075460766177649_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=uA20YrZloTkAX-PNuGN&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDTmBphivdtQ2wQgqmJ_1fmxLfR7AAaepJFVjV3jviyUw&oe=63BD3BF6&_nc_sid=86f79a",
+          "config_width": 640,
+          "config_height": 426
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323185649_2306558022847383_4874075460766177649_n.jpg?stp=dst-jpg_e35_s750x750_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=uA20YrZloTkAX-PNuGN&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAjEwbnaZsUlKootWD3TxGg9e07ofyZzQMil0hP3yi5HQ&oe=63BD3BF6&_nc_sid=86f79a",
+          "config_width": 750,
+          "config_height": 500
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323185649_2306558022847383_4874075460766177649_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=uA20YrZloTkAX-PNuGN&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBWIhKTfveNEzDUMf3hqdY3u2UYM5C0dCBClMzkIfsweQ&oe=63BD3BF6&_nc_sid=86f79a",
+          "config_width": 1080,
+          "config_height": 720
+        }
+      ],
+      "is_video": false,
+      "media_preview": "ACoc5mijrUqQs/SgCKlAJ6VoJZd2OP1q0sEaf/XoAq2yOV+7kL0OPXr+PpVnD+lSkgUzcPShpN3GpNKxXjtQoy3+f8+9SKQTgdqjd2Y8mos0yS75mP8A9dRly3I59s1AORU6RqetIZGWLeuKXefb8qSU84HSoaYj/9k=",
+      "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZmI4ODc0NzlmMjQ4NDI5Y2I4ODYzMDlkMWZiYjMyYzkzMDA3ODYzMTE3OTg4MDg1MjczIiwic2VydmVyX3Rva2VuIjoiMTY3MzA2Mjc0ODYwNXwzMDA3ODYzMTE3OTg4MDg1MjczfDU3NjE3NzMxNTgzfDdkMTVkMTg0ZjVlNjJiZmRhOTFmODJhYjU3ODk2MWVmOTk2M2Q4MjU0MTg3YTVmZTVjMzM3NjBiMzIyNzMxNTgifSwic2lnbmF0dXJlIjoiIn0=",
+      "has_upcoming_event": false,
+      "edge_media_to_tagged_user": {
+        "edges": []
+      },
+      "accessibility_caption": null,
+      "edge_media_to_caption": {
+        "edges": [
+          {
+            "node": {
+              "text": "Lucky Streak⁣.\n⁣\nEach January, the Quadrantids Meteor Shower peaks for a few hours, giving spectators some of the best potential annual meteor shower views. Most easily seen in the Northern Hemisphere this year on Jan. 3, the Quadrantids are known for their bright fireball meteors, and as many as 60 to 200 meteors can be seen per hour in ideal conditions. However, in 2023, a nearly full Moon may wash out many shooting stars, if you can see the sky at all through January clouds.⁣\n⁣\nSo, how about a virtual meteor experience instead? The image above was captured by astronaut Ron Garan in 2011 from the @ISS and shows a Perseid meteor. Meteors, sometimes known as shooting stars, are roughly pebble-sized meteoroid or comet that enters our atmosphere and are typically vaporized.⁣\n⁣\nImage description: Green and dim yellow airglow appears as thin layers visible above the limb of the Earth, extending from image left to upper image right. Atoms and molecules above 50 kilometers in the atmosphere are excited by sunlight during the day, and then release this energy at night producing primarily green light observable from orbit. The sun is low on the horizon as it appears near part of one of the station's solar panel arrays at image upper right. A lone Perseid meteor appears as a bright streak near the center of the image.⁣\n⁣\nCredit: NASA/Ron Garan⁣\n⁣\n#MeteorShower #Atmosphere #SpaceStation #Earth #NASA #Space #Quadrantids #ShootingStars #MakeAWish"
+            }
+          }
+        ]
+      },
+      "shortcode": "Cm-E5HIrb4Z",
+      "edge_media_to_comment": {
+        "count": 1839,
+        "page_info": {
+          "has_next_page": true,
+          "end_cursor": ""
+        },
+        "content": {
+          "user": [
+            {
+              "id": 1,
+              "body": "Yen xin gai"
+            },
+            {
+              "id": 2,
+              "body": "ok"
+            },
+            {
+              "id": 3,
+              "body": "ok"
+            }
+          ],
+          "other": [
+            {
+              "id": 1,
+              "name": "Anna",
+              "body": "This is My comment"
+            },
+            {
+              "id": 2,
+              "name": "Minh Lê",
+              "body": "Your are very beautiful"
+            }
+          ]
+        }
+      },
+      "edge_media_to_sponsor_user": {
+        "edges": []
+      },
+      "is_affiliate": false,
+      "is_paid_partnership": false,
+      "comments_disabled": false,
+      "taken_at_timestamp": 1672785252,
+      "edge_media_preview_like": {
+        "count": 880674,
+        "edges": []
+      },
+      "owner": {
+        "id": "528817154",
+        "username": "Chinawood",
+        "email": "China1145@gmail.com"
+      },
+      "location": null,
+      "nft_asset_info": null,
+      "viewer_has_liked": false,
+      "viewer_has_saved": false,
+      "viewer_has_saved_to_collection": false,
+      "viewer_in_photo_of_you": false,
+      "viewer_can_reshare": true,
+      "thumbnail_src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323185649_2306558022847383_4874075460766177649_n.jpg?stp=c239.0.960.960a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=uA20YrZloTkAX-PNuGN&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAuQ9IARIhwqH6J8-3-QPoaRLGGwbqHVvKGVPvOQUVzug&oe=63BD3BF6&_nc_sid=86f79a",
+      "thumbnail_resources": [
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323185649_2306558022847383_4874075460766177649_n.jpg?stp=c239.0.960.960a_dst-jpg_e35_s150x150&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=uA20YrZloTkAX-PNuGN&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAtzIaD0uly5K3Ngq3fNrkwObtwgIlSDmR-ITWgnd3kOA&oe=63BD3BF6&_nc_sid=86f79a",
+          "config_width": 150,
+          "config_height": 150
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323185649_2306558022847383_4874075460766177649_n.jpg?stp=c239.0.960.960a_dst-jpg_e35_s240x240&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=uA20YrZloTkAX-PNuGN&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCDriGYWB8U83iI_Tyu5HVCkK_hcDLwV2v2kAQrQbnKZw&oe=63BD3BF6&_nc_sid=86f79a",
+          "config_width": 240,
+          "config_height": 240
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323185649_2306558022847383_4874075460766177649_n.jpg?stp=c239.0.960.960a_dst-jpg_e35_s320x320&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=uA20YrZloTkAX-PNuGN&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDnWVXd7quRyFL4zEs-kEhTP6keIYUBJowrdbcnWXOGEQ&oe=63BD3BF6&_nc_sid=86f79a",
+          "config_width": 320,
+          "config_height": 320
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323185649_2306558022847383_4874075460766177649_n.jpg?stp=c239.0.960.960a_dst-jpg_e35_s480x480&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=uA20YrZloTkAX-PNuGN&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBst34ZeFL7-UYi43z2G-c8FTl92HIHiFrP3CbHU71-iA&oe=63BD3BF6&_nc_sid=86f79a",
+          "config_width": 480,
+          "config_height": 480
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323185649_2306558022847383_4874075460766177649_n.jpg?stp=c239.0.960.960a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=uA20YrZloTkAX-PNuGN&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAuQ9IARIhwqH6J8-3-QPoaRLGGwbqHVvKGVPvOQUVzug&oe=63BD3BF6&_nc_sid=86f79a",
+          "config_width": 640,
+          "config_height": 640
+        }
+      ],
+      "coauthor_producers": [],
+      "isVisited": true,
+      "pinned_for_users": [
+        {
+          "id": 1,
+          "src": "https://images.pexels.com/photos/2065725/pexels-photo-2065725.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 2,
+          "src": "https://images.pexels.com/photos/2913125/pexels-photo-2913125.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 3,
+          "src": "https://images.pexels.com/photos/1446161/pexels-photo-1446161.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 4,
+          "src": "https://images.pexels.com/photos/1386599/pexels-photo-1386599.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 5,
+          "src": "https://images.pexels.com/photos/765062/pexels-photo-765062.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 6,
+          "src": "https://images.pexels.com/photos/36762/scarlet-honeyeater-bird-red-feathers.jpg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 7,
+          "src": "https://images.pexels.com/photos/1433052/pexels-photo-1433052.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 8,
+          "src": "https://images.pexels.com/photos/33045/lion-wild-africa-african.jpg?auto=compress&cs=tinysrgb&w=1600"
+        }
+      ]
+    },
+    {
+      "__typename": "GraphSidecar",
+      "id": 5,
+      "gating_info": null,
+      "fact_check_overall_rating": null,
+      "fact_check_information": null,
+      "media_overlay_info": null,
+      "sensitivity_friction_info": null,
+      "sharing_friction_info": {
+        "should_have_sharing_friction": false,
+        "bloks_app_url": null
+      },
+      "dimensions": {
+        "height": 1059,
+        "width": 1080
+      },
+      "display_url": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323355868_153673480787869_581560780242928667_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=pB1i_d6q8AwAX_9zWZ-&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAGnh2LLW3BUv3UjnkQ0nns4PrDC1ntLnpuOcyDYXBcPg&oe=63BDF6F2&_nc_sid=86f79a",
+      "display_resources": [
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323355868_153673480787869_581560780242928667_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=pB1i_d6q8AwAX_9zWZ-&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCzADz8mgG7u07QeA4FINgJThdafhUqC92__U9YB_WdFg&oe=63BDF6F2&_nc_sid=86f79a",
+          "config_width": 640,
+          "config_height": 627
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323355868_153673480787869_581560780242928667_n.jpg?stp=dst-jpg_e35_s750x750_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=pB1i_d6q8AwAX_9zWZ-&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBtGbF9HbZMc2OWc1jmqYPVuU-IGXGYsL7vOjrgCkVrMw&oe=63BDF6F2&_nc_sid=86f79a",
+          "config_width": 750,
+          "config_height": 735
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323355868_153673480787869_581560780242928667_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=pB1i_d6q8AwAX_9zWZ-&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAGnh2LLW3BUv3UjnkQ0nns4PrDC1ntLnpuOcyDYXBcPg&oe=63BDF6F2&_nc_sid=86f79a",
+          "config_width": 1080,
+          "config_height": 1059
+        }
+      ],
+      "is_video": false,
+      "media_preview": null,
+      "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZmI4ODc0NzlmMjQ4NDI5Y2I4ODYzMDlkMWZiYjMyYzkzMDA2OTUyMTM4NjM5NzM2ODc0Iiwic2VydmVyX3Rva2VuIjoiMTY3MzA2Mjc0ODYwNXwzMDA2OTUyMTM4NjM5NzM2ODc0fDU3NjE3NzMxNTgzfDdiYWU1M2Q4NDQyN2FiMDU3NmQ1YzI4MjNkNDliNGQ1N2U3M2E5ZDg5Y2MyMDA2MjM1NTQ1NGNjMjE4ZmExYjAifSwic2lnbmF0dXJlIjoiIn0=",
+      "has_upcoming_event": false,
+      "edge_media_to_tagged_user": {
+        "edges": []
+      },
+      "accessibility_caption": null,
+      "edge_media_to_caption": {
+        "edges": [
+          {
+            "node": {
+              "text": "All year long, our NASA Headquarters photographers capture historic launches, landings, and milestones. Visit their Flickr album to see their top 100 photos from 2022: flickr.com/nasahqphoto⁣⁣⁣\n⁣⁣\nCopy and paste the direct album link:⁣⁣\nhttps://flic.kr/s/aHBqjAmryH⁣⁣\n⁣⁣\nImage description for photo one: This composite made from ten images shows the progression of the Moon during a total lunar eclipse above the Vehicle Assembly Building, Nov. 8, 2022, at NASA’s Kennedy Space Center in Florida. Visible trailing the Moon in this composite is Mars. From left to right, the Moon starts off at its usual brightness and gradually becomes a dull red. Credit: NASA/Joel Kowsky⁣⁣⁣\n⁣\nImage description for photo two: The SpaceX Crew Dragon Freedom spacecraft descends to Earth with four parachutes that resemble jellyfish. The four chutes are fully deployed and the candy corn-shaped capsule dangles below. The sky looks clear and blue. Credit: NASA/Bill Ingalls⁣⁣⁣\n⁣⁣⁣\nImage description for photo three: Boeing and NASA teams in protective gear work around Boeing’s CST-100 Starliner capsule after it landed at White Sands Missile Range’s Space Harbor, Wednesday, May 25, 2022, in New Mexico. The capsule is gray and it sits atop its beige airbags which deployed moments before touchdown in the desert. Workers access the top of the capsule via ladder. Boeing’s Orbital Flight Test-2 (OFT-2) was Starliner’s second uncrewed flight test to the International Space Station as part of NASA's Commercial Crew Program. Credit: NASA/Bill Ingalls⁣⁣⁣\n⁣⁣⁣\nImage description for photo four: Nighttime closeup of the fiery exhaust from the launch of a SpaceX Falcon 9 rocket carrying the Surface Water and Ocean Topography, or SWOT, satellite aboard, Friday, Dec. 16, 2022, from Space Launch Complex 4E at Vandenberg Space Force Base in California. A bright column of flames dominates the image and creates puffy clouds. Image taken moments after liftoff. Credit: NASA/Keegan Barber⁣⁣⁣\n⁣⁣⁣\n#NASA #Photography #Eclipse #Space #Rockets #Launch #SpaceX #Boeing #Liftoff"
+            }
+          }
+        ]
+      },
+      "shortcode": "Cm61wngOQAq",
+      "edge_media_to_comment": {
+        "count": 1969,
+        "page_info": {
+          "has_next_page": true,
+          "end_cursor": ""
+        },
+        "content": {
+          "user": null,
+          "other": [
+            {
+              "id": 1,
+              "name": "Anna",
+              "body": "This is My comment"
+            },
+            {
+              "id": 2,
+              "name": "Minh Lê",
+              "body": "Your are very beautiful"
+            }
+          ]
+        }
+      },
+      "edge_media_to_sponsor_user": {
+        "edges": []
+      },
+      "is_affiliate": false,
+      "is_paid_partnership": false,
+      "comments_disabled": false,
+      "taken_at_timestamp": 1672676649,
+      "edge_media_preview_like": {
+        "count": 1352015,
+        "edges": []
+      },
+      "owner": {
+        "id": "528817155",
+        "username": "Koreaa",
+        "email": "Korea1145@gmail.com"
+      },
+      "location": null,
+      "nft_asset_info": null,
+      "viewer_has_liked": false,
+      "viewer_has_saved": false,
+      "viewer_has_saved_to_collection": false,
+      "viewer_in_photo_of_you": false,
+      "viewer_can_reshare": true,
+      "thumbnail_src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323355868_153673480787869_581560780242928667_n.jpg?stp=c14.0.1412.1412a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=pB1i_d6q8AwAX_9zWZ-&edm=APU89FABAAAA&ccb=7-5&oh=00_AfASy1lrh0sg_VCSeD9qlW8ChN7L3edt1v01sZY5xifGyA&oe=63BDF6F2&_nc_sid=86f79a",
+      "thumbnail_resources": [
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323355868_153673480787869_581560780242928667_n.jpg?stp=c14.0.1412.1412a_dst-jpg_e35_s150x150&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=pB1i_d6q8AwAX_9zWZ-&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDAFjbqt-jCCkhh2ENpjafQA8uhgWpjzLA_FgpougpB0w&oe=63BDF6F2&_nc_sid=86f79a",
+          "config_width": 150,
+          "config_height": 150
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323355868_153673480787869_581560780242928667_n.jpg?stp=c14.0.1412.1412a_dst-jpg_e35_s240x240&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=pB1i_d6q8AwAX_9zWZ-&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDnKo8cybuV7CgLci5YthRAQ3mUdwkARw7hSTH8eFT_Ww&oe=63BDF6F2&_nc_sid=86f79a",
+          "config_width": 240,
+          "config_height": 240
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323355868_153673480787869_581560780242928667_n.jpg?stp=c14.0.1412.1412a_dst-jpg_e35_s320x320&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=pB1i_d6q8AwAX_9zWZ-&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBlxi80JWdWYecxh91BA7smYa-FVqcFwdf2F9_UiD5Oxg&oe=63BDF6F2&_nc_sid=86f79a",
+          "config_width": 320,
+          "config_height": 320
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323355868_153673480787869_581560780242928667_n.jpg?stp=c14.0.1412.1412a_dst-jpg_e35_s480x480&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=pB1i_d6q8AwAX_9zWZ-&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDzqQ5nUZh93z-HqrURgxhpuLTnFNzBFGAqIjybYMlhdg&oe=63BDF6F2&_nc_sid=86f79a",
+          "config_width": 480,
+          "config_height": 480
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323355868_153673480787869_581560780242928667_n.jpg?stp=c14.0.1412.1412a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=pB1i_d6q8AwAX_9zWZ-&edm=APU89FABAAAA&ccb=7-5&oh=00_AfASy1lrh0sg_VCSeD9qlW8ChN7L3edt1v01sZY5xifGyA&oe=63BDF6F2&_nc_sid=86f79a",
+          "config_width": 640,
+          "config_height": 640
+        }
+      ],
+      "coauthor_producers": [],
+      "isVisited": true,
+      "pinned_for_users": [
+        {
+          "id": 1,
+          "src": "https://images.pexels.com/photos/3363204/pexels-photo-3363204.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 2,
+          "src": "https://images.pexels.com/photos/1642228/pexels-photo-1642228.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 3,
+          "src": "https://images.pexels.com/photos/719396/pexels-photo-719396.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 4,
+          "src": "https://images.pexels.com/photos/1386605/pexels-photo-1386605.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 5,
+          "src": "https://images.pexels.com/photos/765062/pexels-photo-765062.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 6,
+          "src": "https://images.pexels.com/photos/36762/scarlet-honeyeater-bird-red-feathers.jpg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 7,
+          "src": "https://images.pexels.com/photos/1433052/pexels-photo-1433052.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 8,
+          "src": "https://images.pexels.com/photos/33045/lion-wild-africa-african.jpg?auto=compress&cs=tinysrgb&w=1600"
+        }
+      ],
+      "edge_sidecar_to_children": {
+        "edges": [
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": 3006952134067928600,
+              "gating_info": null,
+              "fact_check_overall_rating": null,
+              "fact_check_information": null,
+              "media_overlay_info": null,
+              "sensitivity_friction_info": null,
+              "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+              },
+              "dimensions": {
+                "height": 1059,
+                "width": 1080
+              },
+              "display_url": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323355868_153673480787869_581560780242928667_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=pB1i_d6q8AwAX_9zWZ-&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAGnh2LLW3BUv3UjnkQ0nns4PrDC1ntLnpuOcyDYXBcPg&oe=63BDF6F2&_nc_sid=86f79a",
+              "display_resources": [
+                {
+                  "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323355868_153673480787869_581560780242928667_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=pB1i_d6q8AwAX_9zWZ-&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCzADz8mgG7u07QeA4FINgJThdafhUqC92__U9YB_WdFg&oe=63BDF6F2&_nc_sid=86f79a",
+                  "config_width": 640,
+                  "config_height": 627
+                },
+                {
+                  "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323355868_153673480787869_581560780242928667_n.jpg?stp=dst-jpg_e35_s750x750_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=pB1i_d6q8AwAX_9zWZ-&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBtGbF9HbZMc2OWc1jmqYPVuU-IGXGYsL7vOjrgCkVrMw&oe=63BDF6F2&_nc_sid=86f79a",
+                  "config_width": 750,
+                  "config_height": 735
+                },
+                {
+                  "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323355868_153673480787869_581560780242928667_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=pB1i_d6q8AwAX_9zWZ-&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAGnh2LLW3BUv3UjnkQ0nns4PrDC1ntLnpuOcyDYXBcPg&oe=63BDF6F2&_nc_sid=86f79a",
+                  "config_width": 1080,
+                  "config_height": 1059
+                }
+              ],
+              "is_video": false,
+              "media_preview": "ACopwsUuKmSFnBKjOBk0zFamYzFGKkxSYpgR4pMVLikxQBMjFelJinUuKQx0UDTHagyfyq9aWAfJlyApxgd6saXCd5c9Nv8AWrkDbHcN3JYfnWUpWfkWo/ec1Im1iPQ4qPFXLpfnb35/Wq5Wqi7ilGw3cmcBuPXB/lVmF4QQWJI+nWscVOtRr3LXodAl5bqMHI9hn371AbmDfkFwPxrGNNqXG5XMdEmo26EnBJPT5ef51Cb6HPU/98f/AF6wqSlyrzDnZ//Z",
+              "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZmI4ODc0NzlmMjQ4NDI5Y2I4ODYzMDlkMWZiYjMyYzkzMDA2OTUyMTM0MDY3OTI4NDM3Iiwic2VydmVyX3Rva2VuIjoiMTY3MzA2Mjc0ODYwNnwzMDA2OTUyMTM0MDY3OTI4NDM3fDU3NjE3NzMxNTgzfDAwOWFjZGE1ZDVkOTAwOTA1NTg2YjYwZWNiNjk4MGI3NjAyNWRjOTViYmRjMGRlODRjOWRkYjY0OGU0MTM5YjQifSwic2lnbmF0dXJlIjoiIn0=",
+              "has_upcoming_event": false,
+              "edge_media_to_tagged_user": {
+                "edges": []
+              },
+              "accessibility_caption": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": 3006952134067998000,
+              "gating_info": null,
+              "fact_check_overall_rating": null,
+              "fact_check_information": null,
+              "media_overlay_info": null,
+              "sensitivity_friction_info": null,
+              "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+              },
+              "dimensions": {
+                "height": 1059,
+                "width": 1080
+              },
+              "display_url": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323079432_1138584586848627_4632249824441912919_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=103&_nc_ohc=6-ucUwo1U88AX9qx8p7&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCPTLhXrG-DOe9a8QWdk3n6ZDW0kSu1klynn2pP8UdL8g&oe=63BD9CF8&_nc_sid=86f79a",
+              "display_resources": [
+                {
+                  "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323079432_1138584586848627_4632249824441912919_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=103&_nc_ohc=6-ucUwo1U88AX9qx8p7&edm=APU89FABAAAA&ccb=7-5&oh=00_AfA6zgxfjwKxboo3HtxZSB2QZ_Lp3ekl6zZ_LKvd1QgIuA&oe=63BD9CF8&_nc_sid=86f79a",
+                  "config_width": 640,
+                  "config_height": 627
+                },
+                {
+                  "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323079432_1138584586848627_4632249824441912919_n.jpg?stp=dst-jpg_e35_s750x750_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=103&_nc_ohc=6-ucUwo1U88AX9qx8p7&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAlNDLcAK7O3KSZCDTMH5NgqZCIUCN31Zu-qp0WW0eR5A&oe=63BD9CF8&_nc_sid=86f79a",
+                  "config_width": 750,
+                  "config_height": 735
+                },
+                {
+                  "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323079432_1138584586848627_4632249824441912919_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=103&_nc_ohc=6-ucUwo1U88AX9qx8p7&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCPTLhXrG-DOe9a8QWdk3n6ZDW0kSu1klynn2pP8UdL8g&oe=63BD9CF8&_nc_sid=86f79a",
+                  "config_width": 1080,
+                  "config_height": 1059
+                }
+              ],
+              "is_video": false,
+              "media_preview": "ACopyqu/Z0UcnJqlVy3gaXJHzY4q2Qh8FuJGwBkY69cVLNYheRkVIsLxN1wfbioZLqdSQrll9cA/0qVqW9DPIwcUlKeaKszEqxb3DQHK9+oqvRQBpi6Nw4UjG7rz19qm8h2BYDAFY4JU5HBFXRqE4GN36Cpcb7FqVhl1GEIPTcKq0+SRpDuckn3plUtCXqJRRS0CGscds06iigAooooA/9k=",
+              "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZmI4ODc0NzlmMjQ4NDI5Y2I4ODYzMDlkMWZiYjMyYzkzMDA2OTUyMTM0MDY3OTk4MDQwIiwic2VydmVyX3Rva2VuIjoiMTY3MzA2Mjc0ODYwNnwzMDA2OTUyMTM0MDY3OTk4MDQwfDU3NjE3NzMxNTgzfDE0MmExNWVmZWM4MTRhODY2YjM2MjVhZDFiYTRlZmNjNTRkZTM4NGE3ZDBkY2RmZDZkNDYwYzc3NjNjNDc0NWEifSwic2lnbmF0dXJlIjoiIn0=",
+              "has_upcoming_event": false,
+              "edge_media_to_tagged_user": {
+                "edges": []
+              },
+              "accessibility_caption": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": 3006952134118429000,
+              "gating_info": null,
+              "fact_check_overall_rating": null,
+              "fact_check_information": null,
+              "media_overlay_info": null,
+              "sensitivity_friction_info": null,
+              "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+              },
+              "dimensions": {
+                "height": 1059,
+                "width": 1080
+              },
+              "display_url": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323349254_1207622409865260_6365431745409193810_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=100&_nc_ohc=OfVvC3VgOCgAX__taoi&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCAgYVjTMZ5BxnyEq-B_5QVfnLaWXMRWVaWuwbg6hdlqg&oe=63BD29BF&_nc_sid=86f79a",
+              "display_resources": [
+                {
+                  "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323349254_1207622409865260_6365431745409193810_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=100&_nc_ohc=OfVvC3VgOCgAX__taoi&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAKh8CjXnwWMkU2uY-UqD6cCFfqnJn82apMt7hwIc2XdA&oe=63BD29BF&_nc_sid=86f79a",
+                  "config_width": 640,
+                  "config_height": 627
+                },
+                {
+                  "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323349254_1207622409865260_6365431745409193810_n.jpg?stp=dst-jpg_e35_s750x750_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=100&_nc_ohc=OfVvC3VgOCgAX__taoi&edm=APU89FABAAAA&ccb=7-5&oh=00_AfB2Ckn-hhxnhzhxwc9xL90FQw8vjoR582g3Ws7wWtoQCA&oe=63BD29BF&_nc_sid=86f79a",
+                  "config_width": 750,
+                  "config_height": 735
+                },
+                {
+                  "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323349254_1207622409865260_6365431745409193810_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=100&_nc_ohc=OfVvC3VgOCgAX__taoi&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCAgYVjTMZ5BxnyEq-B_5QVfnLaWXMRWVaWuwbg6hdlqg&oe=63BD29BF&_nc_sid=86f79a",
+                  "config_width": 1080,
+                  "config_height": 1059
+                }
+              ],
+              "is_video": false,
+              "media_preview": "ACops5oqvNIY0LDtVdJ/3Wc5P6nnt71RJfJA60gIPTmsWW5lPB6+n8v0oju2RgW79RjH4+9K47G1SU0PuGR0NG6mIqCTejHPcgfT3pkGCN3GOm0n8yfr/npUYU+UV6cn9T/n8qr7AzKozyQOOevp9KyuXYsTQnJbIAfsR+WKreT0BxgZ9avtbIpwWOO3zVTuEWPAQknPrxTTQWJ7RznymJyOnvWhsPqf0rKjRPvZIYevrU/2lvX9RTA0ce1GPanUVIxhX2o2j0p1LQBHtHpRt9hTqSgD/9k=",
+              "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZmI4ODc0NzlmMjQ4NDI5Y2I4ODYzMDlkMWZiYjMyYzkzMDA2OTUyMTM0MTE4NDI5NDMxIiwic2VydmVyX3Rva2VuIjoiMTY3MzA2Mjc0ODYwNnwzMDA2OTUyMTM0MTE4NDI5NDMxfDU3NjE3NzMxNTgzfDllYTFhYjc5ZDNiZTllYTQwYjE0ZTdhNmEzMTFkOGZiOGRhNWVmNDJkZDc4NjY5MTBiZjQ1MGUzNTI5ZWM5NGUifSwic2lnbmF0dXJlIjoiIn0=",
+              "has_upcoming_event": false,
+              "edge_media_to_tagged_user": {
+                "edges": []
+              },
+              "accessibility_caption": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": 3006952134059726300,
+              "gating_info": null,
+              "fact_check_overall_rating": null,
+              "fact_check_information": null,
+              "media_overlay_info": null,
+              "sensitivity_friction_info": null,
+              "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+              },
+              "dimensions": {
+                "height": 1059,
+                "width": 1080
+              },
+              "display_url": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323303719_120234514274339_711864231924692834_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=111&_nc_ohc=zOWHJ33Zz4AAX-mlc4j&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAjLj9ZtsrnA94J52niCRVzvePhM0-Weh1MMarnvRmD_A&oe=63BE3F42&_nc_sid=86f79a",
+              "display_resources": [
+                {
+                  "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323303719_120234514274339_711864231924692834_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=111&_nc_ohc=zOWHJ33Zz4AAX-mlc4j&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDEicCMBl0ws1k29Fpz8MrioVH4AIzM5HqmiY48BNRLzQ&oe=63BE3F42&_nc_sid=86f79a",
+                  "config_width": 640,
+                  "config_height": 627
+                },
+                {
+                  "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323303719_120234514274339_711864231924692834_n.jpg?stp=dst-jpg_e35_s750x750_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=111&_nc_ohc=zOWHJ33Zz4AAX-mlc4j&edm=APU89FABAAAA&ccb=7-5&oh=00_AfB9184WBlFEUaKgbzwQp5mzWrR4XhkIBzqkoxvfag1oPw&oe=63BE3F42&_nc_sid=86f79a",
+                  "config_width": 750,
+                  "config_height": 735
+                },
+                {
+                  "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323303719_120234514274339_711864231924692834_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=111&_nc_ohc=zOWHJ33Zz4AAX-mlc4j&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAjLj9ZtsrnA94J52niCRVzvePhM0-Weh1MMarnvRmD_A&oe=63BE3F42&_nc_sid=86f79a",
+                  "config_width": 1080,
+                  "config_height": 1059
+                }
+              ],
+              "is_video": false,
+              "media_preview": "ACop5vFOAqdUB4oKYqLl2Kp4oFXv7PnfDKuQwyORUMkDQnbIMHGfzp3QrFeipUjLHHYVNsPt+VF7BYcpyeOlWxFv5FUI3C9atbyRzwvUgdT+PYVm0WjrLaPESA9Qo/lWNqagzEf7I/lUMerFQqLwF9859jmiS584+Yx55xQ/QEiu6bBgfjVUvUssgNUt1CQNkQOKd5hHSo6K1sZ3FzUnmtUVFFguPLk03NJRTEf/2Q==",
+              "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZmI4ODc0NzlmMjQ4NDI5Y2I4ODYzMDlkMWZiYjMyYzkzMDA2OTUyMTM0MDU5NzI2NTU0Iiwic2VydmVyX3Rva2VuIjoiMTY3MzA2Mjc0ODYwNnwzMDA2OTUyMTM0MDU5NzI2NTU0fDU3NjE3NzMxNTgzfDcwOWE1MDcxMDE3ODI1ZTA0YmMxMTFjZTcxNGJjZWY2NGE3ZGY0OGM3YmNhYTY1OGEyMDYxMWEzM2ZhY2E5YzYifSwic2lnbmF0dXJlIjoiIn0=",
+              "has_upcoming_event": false,
+              "edge_media_to_tagged_user": {
+                "edges": []
+              },
+              "accessibility_caption": null
+            }
+          }
+        ]
+      }
+    },
+    {
+      "__typename": "GraphImage",
+      "id": 6,
+      "gating_info": null,
+      "fact_check_overall_rating": null,
+      "fact_check_information": null,
+      "media_overlay_info": null,
+      "sensitivity_friction_info": null,
+      "sharing_friction_info": {
+        "should_have_sharing_friction": false,
+        "bloks_app_url": null
+      },
+      "dimensions": {
+        "height": 932,
+        "width": 1080
+      },
+      "display_url": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323512832_838557660742064_1607947612179889455_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=C2-UYUsrmU0AX_7X7Bl&edm=APU89FABAAAA&ccb=7-5&oh=00_AfChEK6dWyJbhou2Bza7k-4BcNg1ehxG7qfGiheHcu_OWQ&oe=63BE7CD0&_nc_sid=86f79a",
+      "display_resources": [
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323512832_838557660742064_1607947612179889455_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=C2-UYUsrmU0AX_7X7Bl&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDryNC9uSfMmTw5Pvu-gVsemZZWPtzmymespCW1AT3Dwg&oe=63BE7CD0&_nc_sid=86f79a",
+          "config_width": 640,
+          "config_height": 552
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323512832_838557660742064_1607947612179889455_n.jpg?stp=dst-jpg_e35_s750x750_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=C2-UYUsrmU0AX_7X7Bl&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBmaBgZSOCtjAPcQtMZ6PIrG0Vp3CJFOSSGQhmW3TPTFg&oe=63BE7CD0&_nc_sid=86f79a",
+          "config_width": 750,
+          "config_height": 647
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323512832_838557660742064_1607947612179889455_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=C2-UYUsrmU0AX_7X7Bl&edm=APU89FABAAAA&ccb=7-5&oh=00_AfChEK6dWyJbhou2Bza7k-4BcNg1ehxG7qfGiheHcu_OWQ&oe=63BE7CD0&_nc_sid=86f79a",
+          "config_width": 1080,
+          "config_height": 932
+        }
+      ],
+      "is_video": false,
+      "media_preview": "ACok5mrUNo0nJ4HrUtpbeZyeg61rmMheOAOg/pWE6ltFudcKS3n9xl/Yk6ZNMay/un862D+6UFsFT9M1UmeMnKHGOorNTkzbkg+hishQ4PBptXLhlYe/61TrpTujinHldk7o0rObYCfSny3BY5JrNVyvSmliajkTdzZVrRS3ZZac9KgaQmmUVaSRjKcpbsKKKKozCiiigAooooAKKKKAP//Z",
+      "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZmI4ODc0NzlmMjQ4NDI5Y2I4ODYzMDlkMWZiYjMyYzkzMDA2Mjc1ODE3OTA0NTU2NTA0Iiwic2VydmVyX3Rva2VuIjoiMTY3MzA2Mjc0ODYwNnwzMDA2Mjc1ODE3OTA0NTU2NTA0fDU3NjE3NzMxNTgzfDVkNjQwOTJjM2M3NjgyMTNiYzBjNGViZDQ5MzU5ZTg4ZDM4ODMxYmVlYzE4ZWFkZWJiOWQ3YzA3Y2RiNjlkMGYifSwic2lnbmF0dXJlIjoiIn0=",
+      "has_upcoming_event": false,
+      "edge_media_to_tagged_user": {
+        "edges": []
+      },
+      "accessibility_caption": null,
+      "edge_media_to_caption": {
+        "edges": [
+          {
+            "node": {
+              "text": "You don’t look a day over 4.5 billion-years. ☀️⁣\n⁣\n#HappyNewYear from the star of the show that makes all this possible, as we begin a new orbit around our Sun, 93 million miles (150 million km) from Earth. Cosmically middle-aged and classified as a yellow dwarf, the Sun's dynamic and ever-changing nature constantly sends energy into the solar system. Scientists can estimate the age of the Sun by looking at the most ancient things in our solar system, which along with the Sun, all formed around the same time.\n⁣\nThe Sun is at the center of our solar system, 865,000 miles wide (1.4 million km) with a core that reaches temperatures of 27 million degrees Fahrenheit (15 million degrees Celsius). Our Sun’s gravity holds our solar system together, from the largest planets to the smallest space debris. ⁣\n⁣\nA fleet of spacecraft monitors the Sun 24/7, broadening our knowledge of the star in a branch of science known as heliophysics – including the spacecraft that took this image: the Solar Dynamic Observatory (SDO). ⁣\n⁣\nThe SDO orbits Earth in a geosynchronous pattern – it maintains a figure-eight path over the longitude of New Mexico. Because of its orbit, it is constantly in view of radio antennas on Earth; it also enters an eclipse season twice a year when the spacecraft slips behind Earth for up to 72 minutes a day, obscuring the Sun with Earth’s shadow as seen here.⁣\n⁣\nImage description: Black space surrounds the Sun, which glows and swirls in red, orange, and spots of yellow and is shrouded by the shadow of Earth. Eruptions spot the edges of the star, sending material into space.⁣\n⁣\nCredit: NASA/GSFC/SDO⁣\n⁣\n#Sun #SolarSystem #Earth #SDO #Star #Planets"
+            }
+          }
+        ]
+      },
+      "shortcode": "Cm4b-2vDEnY",
+      "edge_media_to_comment": {
+        "count": 4382,
+        "page_info": {
+          "has_next_page": true,
+          "end_cursor": ""
+        },
+        "content": {
+          "user": null,
+          "other": [
+            {
+              "id": 1,
+              "name": "Anna",
+              "body": "This is My comment"
+            },
+            {
+              "id": 2,
+              "name": "Minh Lê",
+              "body": "Your are very beautiful"
+            }
+          ]
+        }
+      },
+      "edge_media_to_sponsor_user": {
+        "edges": []
+      },
+      "is_affiliate": false,
+      "is_paid_partnership": false,
+      "comments_disabled": false,
+      "taken_at_timestamp": 1672596032,
+      "edge_media_preview_like": {
+        "count": 1646296,
+        "edges": []
+      },
+      "owner": {
+        "id": "528817156",
+        "username": "Indiaa",
+        "email": "India1145@gmail.com"
+      },
+      "location": null,
+      "nft_asset_info": null,
+      "viewer_has_liked": false,
+      "viewer_has_saved": false,
+      "viewer_has_saved_to_collection": false,
+      "viewer_in_photo_of_you": false,
+      "viewer_can_reshare": true,
+      "thumbnail_src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323512832_838557660742064_1607947612179889455_n.jpg?stp=c98.0.1243.1243a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=C2-UYUsrmU0AX_7X7Bl&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDOyPeHwC_8W13DRw7YcIakeMO2_TWiWPPHAtDUTmx3Og&oe=63BE7CD0&_nc_sid=86f79a",
+      "thumbnail_resources": [
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323512832_838557660742064_1607947612179889455_n.jpg?stp=c98.0.1243.1243a_dst-jpg_e35_s150x150&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=C2-UYUsrmU0AX_7X7Bl&edm=APU89FABAAAA&ccb=7-5&oh=00_AfB0ddcVMzmuQi14ulglmVL4hSGcY1hN93B28dZvSrpygA&oe=63BE7CD0&_nc_sid=86f79a",
+          "config_width": 150,
+          "config_height": 150
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323512832_838557660742064_1607947612179889455_n.jpg?stp=c98.0.1243.1243a_dst-jpg_e35_s240x240&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=C2-UYUsrmU0AX_7X7Bl&edm=APU89FABAAAA&ccb=7-5&oh=00_AfC-yKG9JUy3wV1fvcDKrLAca6HJPQYZ8cogCozztYAtCA&oe=63BE7CD0&_nc_sid=86f79a",
+          "config_width": 240,
+          "config_height": 240
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323512832_838557660742064_1607947612179889455_n.jpg?stp=c98.0.1243.1243a_dst-jpg_e35_s320x320&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=C2-UYUsrmU0AX_7X7Bl&edm=APU89FABAAAA&ccb=7-5&oh=00_AfD09m--3ThjVj-XMVXE0mhZ-iUQ6TNH6qttUp30YucEXQ&oe=63BE7CD0&_nc_sid=86f79a",
+          "config_width": 320,
+          "config_height": 320
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323512832_838557660742064_1607947612179889455_n.jpg?stp=c98.0.1243.1243a_dst-jpg_e35_s480x480&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=C2-UYUsrmU0AX_7X7Bl&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBdcBShjRM3VPKsGSLDsrx1JJjmKTwAwg0S8rGEIfQ0VA&oe=63BE7CD0&_nc_sid=86f79a",
+          "config_width": 480,
+          "config_height": 480
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323512832_838557660742064_1607947612179889455_n.jpg?stp=c98.0.1243.1243a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=C2-UYUsrmU0AX_7X7Bl&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDOyPeHwC_8W13DRw7YcIakeMO2_TWiWPPHAtDUTmx3Og&oe=63BE7CD0&_nc_sid=86f79a",
+          "config_width": 640,
+          "config_height": 640
+        }
+      ],
+      "coauthor_producers": [],
+      "isVisited": true,
+      "pinned_for_users": [
+        {
+          "id": 1,
+          "src": "https://images.pexels.com/photos/672444/pexels-photo-672444.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 2,
+          "src": "https://images.pexels.com/photos/1021693/pexels-photo-1021693.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 3,
+          "src": "https://images.pexels.com/photos/1372137/pexels-photo-1372137.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 4,
+          "src": "https://images.pexels.com/photos/45853/grey-crowned-crane-bird-crane-animal-45853.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 5,
+          "src": "https://images.pexels.com/photos/765062/pexels-photo-765062.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 6,
+          "src": "https://images.pexels.com/photos/36762/scarlet-honeyeater-bird-red-feathers.jpg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 7,
+          "src": "https://images.pexels.com/photos/1433052/pexels-photo-1433052.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 8,
+          "src": "https://images.pexels.com/photos/33045/lion-wild-africa-african.jpg?auto=compress&cs=tinysrgb&w=1600"
+        }
+      ]
+    },
+    {
+      "__typename": "GraphSidecar",
+      "id": 7,
+      "gating_info": null,
+      "fact_check_overall_rating": null,
+      "fact_check_information": null,
+      "media_overlay_info": null,
+      "sensitivity_friction_info": null,
+      "sharing_friction_info": {
+        "should_have_sharing_friction": false,
+        "bloks_app_url": null
+      },
+      "dimensions": {
+        "height": 1080,
+        "width": 1080
+      },
+      "display_url": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/322262100_229708022719882_6262776054952654214_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=wHVaTNyGY4EAX8Zq99W&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCdhDirkkxS0Z_FPP8OCDgBNP1zLFtwam9CffC3B0g4tQ&oe=63BECD6E&_nc_sid=86f79a",
+      "display_resources": [
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/322262100_229708022719882_6262776054952654214_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=wHVaTNyGY4EAX8Zq99W&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDrOwcjmaXYshSiS9B05tn1gSUp1h9xVVecwtdEajgrBg&oe=63BECD6E&_nc_sid=86f79a",
+          "config_width": 640,
+          "config_height": 640
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/322262100_229708022719882_6262776054952654214_n.jpg?stp=dst-jpg_e35_s750x750_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=wHVaTNyGY4EAX8Zq99W&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBgBsNMRLXyM1WkF4ZuqPzv2Sh_NRGfH7pncovhxpOl-Q&oe=63BECD6E&_nc_sid=86f79a",
+          "config_width": 750,
+          "config_height": 750
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/322262100_229708022719882_6262776054952654214_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=wHVaTNyGY4EAX8Zq99W&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCdhDirkkxS0Z_FPP8OCDgBNP1zLFtwam9CffC3B0g4tQ&oe=63BECD6E&_nc_sid=86f79a",
+          "config_width": 1080,
+          "config_height": 1080
+        }
+      ],
+      "is_video": false,
+      "media_preview": null,
+      "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZmI4ODc0NzlmMjQ4NDI5Y2I4ODYzMDlkMWZiYjMyYzkzMDA1NDk1NDQwMjA4NjQ0NDkzIiwic2VydmVyX3Rva2VuIjoiMTY3MzA2Mjc0ODYwNnwzMDA1NDk1NDQwMjA4NjQ0NDkzfDU3NjE3NzMxNTgzfDY0MDQ1MDEwNzE1YTMwMDBhZmM0YzkyODlhYmFkMDg3OGNkZjcxOTQ5NDcxY2M0ZTJjZTAzZjE0NGNhOThmMmIifSwic2lnbmF0dXJlIjoiIn0=",
+      "has_upcoming_event": false,
+      "edge_media_to_tagged_user": {
+        "edges": []
+      },
+      "accessibility_caption": null,
+      "edge_media_to_caption": {
+        "edges": [
+          {
+            "node": {
+              "text": "Ring in the new year! 🪐\n \nWe’re celebrating like it’s 1999—the year that @NASAHubble captured this image of Saturn, the sixth planet from our Sun. \n\nHubble took several photos of Saturn between 1996 and 2000, observing how its rings appear differently from our perspective as the gas giant makes its 29-year-long journey around the Sun. For instance, when Saturn’s rings are viewed from their edge on, they seem to be small and thin. However, when the planet’s orbit has moved enough that they can be viewed from an angle, the full picturesque breadth of Saturn’s iconic rings can be seen. \n \nThe particles that make up Saturn’s rings mostly range from tiny, dust-sized icy grains to chunks as big as a house, with a few particles as large as mountains. Saturn's rings are thought to be pieces of comets, asteroids, or shattered moons that broke up before they reached the planet, torn apart by its powerful gravity. One of the most impressive sights in our solar system, Saturn continues to allure astronomers, with recent @NASAWebb observations targeting its largest moon Titan. Saturn has also been visited by four robotic missions—including our Cassini spacecraft, which dove into the planet's atmosphere in 2017.\n \nImage Description: Saturn and its rings. The warm brown-and-creme hues of Saturn’s cloudy atmosphere present a gradient of color against the dark blackness of space. At its south pole, the darkest shades of the ombré pattern create a circle of earthy brown. Circling Saturn, grey rings are intersected by the Cassini Division, a gap measuring 2,920 miles (4,700 kilometers), which breaks up the otherwise halo-like rings. \n \nCredit: NASA and The Hubble Heritage Team (STScI/AURA); Acknowledgment: R.G. French (Wellesley College), J. Cuzzi (NASA/Ames), L. Dones (SwRI), and J. Lissauer (NASA/Ames)\n \n#NASA #Space #NewYear #NewYearsEve #Saturn #Hubble #Telescope #Planet #SolarSystem"
+            }
+          }
+        ]
+      },
+      "shortcode": "Cm1qi3XsUmN",
+      "edge_media_to_comment": {
+        "count": 3999,
+        "page_info": {
+          "has_next_page": true,
+          "end_cursor": ""
+        },
+        "content": {
+          "user": null,
+          "other": [
+            {
+              "id": 1,
+              "name": "Anna",
+              "body": "This is My comment"
+            },
+            {
+              "id": 2,
+              "name": "Minh Lê",
+              "body": "Your are very beautiful"
+            }
+          ]
+        }
+      },
+      "edge_media_to_sponsor_user": {
+        "edges": []
+      },
+      "is_affiliate": false,
+      "is_paid_partnership": false,
+      "comments_disabled": false,
+      "taken_at_timestamp": 1672503000,
+      "edge_media_preview_like": {
+        "count": 2470719,
+        "edges": []
+      },
+      "owner": {
+        "id": "528817157",
+        "username": "Japana",
+        "email": "Japan1145@gmail.com"
+      },
+      "location": null,
+      "nft_asset_info": null,
+      "viewer_has_liked": false,
+      "viewer_has_saved": false,
+      "viewer_has_saved_to_collection": false,
+      "viewer_in_photo_of_you": false,
+      "viewer_can_reshare": true,
+      "thumbnail_src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/322262100_229708022719882_6262776054952654214_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=wHVaTNyGY4EAX8Zq99W&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDrOwcjmaXYshSiS9B05tn1gSUp1h9xVVecwtdEajgrBg&oe=63BECD6E&_nc_sid=86f79a",
+      "thumbnail_resources": [
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/322262100_229708022719882_6262776054952654214_n.jpg?stp=dst-jpg_e35_s150x150&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=wHVaTNyGY4EAX8Zq99W&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBalUkOviHIFfZn0ZKRBkLP1_WQlcZBkM7BuloTUOo6FQ&oe=63BECD6E&_nc_sid=86f79a",
+          "config_width": 150,
+          "config_height": 150
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/322262100_229708022719882_6262776054952654214_n.jpg?stp=dst-jpg_e35_s240x240&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=wHVaTNyGY4EAX8Zq99W&edm=APU89FABAAAA&ccb=7-5&oh=00_AfC_004rPxKoLOMdhLIOh1wEaQO74E683Y_ShFQHjNr91g&oe=63BECD6E&_nc_sid=86f79a",
+          "config_width": 240,
+          "config_height": 240
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/322262100_229708022719882_6262776054952654214_n.jpg?stp=dst-jpg_e35_s320x320&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=wHVaTNyGY4EAX8Zq99W&edm=APU89FABAAAA&ccb=7-5&oh=00_AfC0fpZo6sS73tV80Thw4erau7_LmD2jzdFJERNvT3shtA&oe=63BECD6E&_nc_sid=86f79a",
+          "config_width": 320,
+          "config_height": 320
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/322262100_229708022719882_6262776054952654214_n.jpg?stp=dst-jpg_e35_s480x480&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=wHVaTNyGY4EAX8Zq99W&edm=APU89FABAAAA&ccb=7-5&oh=00_AfC7qXVhqNEf5Zz5302qIdw1tzBMxsQyT-PmZzsDD3L7Fg&oe=63BECD6E&_nc_sid=86f79a",
+          "config_width": 480,
+          "config_height": 480
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/322262100_229708022719882_6262776054952654214_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=wHVaTNyGY4EAX8Zq99W&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDrOwcjmaXYshSiS9B05tn1gSUp1h9xVVecwtdEajgrBg&oe=63BECD6E&_nc_sid=86f79a",
+          "config_width": 640,
+          "config_height": 640
+        }
+      ],
+      "coauthor_producers": [],
+      "isVisited": true,
+      "pinned_for_users": [
+        {
+          "id": 1,
+          "src": "https://images.pexels.com/photos/1319910/pexels-photo-1319910.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 2,
+          "src": "https://images.pexels.com/photos/1139450/pexels-photo-1139450.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 3,
+          "src": "https://images.pexels.com/photos/206585/pexels-photo-206585.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 4,
+          "src": "https://images.pexels.com/photos/45853/grey-crowned-crane-bird-crane-animal-45853.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 5,
+          "src": "https://images.pexels.com/photos/765062/pexels-photo-765062.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 6,
+          "src": "https://images.pexels.com/photos/36762/scarlet-honeyeater-bird-red-feathers.jpg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 7,
+          "src": "https://images.pexels.com/photos/1433052/pexels-photo-1433052.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 8,
+          "src": "https://images.pexels.com/photos/1322136/pexels-photo-1322136.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        }
+      ],
+      "edge_sidecar_to_children": {
+        "edges": [
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": 3005495408726313500,
+              "gating_info": null,
+              "fact_check_overall_rating": null,
+              "fact_check_information": null,
+              "media_overlay_info": null,
+              "sensitivity_friction_info": null,
+              "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+              },
+              "dimensions": {
+                "height": 1080,
+                "width": 1080
+              },
+              "display_url": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/322262100_229708022719882_6262776054952654214_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=wHVaTNyGY4EAX8Zq99W&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCdhDirkkxS0Z_FPP8OCDgBNP1zLFtwam9CffC3B0g4tQ&oe=63BECD6E&_nc_sid=86f79a",
+              "display_resources": [
+                {
+                  "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/322262100_229708022719882_6262776054952654214_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=wHVaTNyGY4EAX8Zq99W&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDrOwcjmaXYshSiS9B05tn1gSUp1h9xVVecwtdEajgrBg&oe=63BECD6E&_nc_sid=86f79a",
+                  "config_width": 640,
+                  "config_height": 640
+                },
+                {
+                  "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/322262100_229708022719882_6262776054952654214_n.jpg?stp=dst-jpg_e35_s750x750_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=wHVaTNyGY4EAX8Zq99W&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBgBsNMRLXyM1WkF4ZuqPzv2Sh_NRGfH7pncovhxpOl-Q&oe=63BECD6E&_nc_sid=86f79a",
+                  "config_width": 750,
+                  "config_height": 750
+                },
+                {
+                  "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/322262100_229708022719882_6262776054952654214_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=wHVaTNyGY4EAX8Zq99W&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCdhDirkkxS0Z_FPP8OCDgBNP1zLFtwam9CffC3B0g4tQ&oe=63BECD6E&_nc_sid=86f79a",
+                  "config_width": 1080,
+                  "config_height": 1080
+                }
+              ],
+              "is_video": false,
+              "media_preview": "ACoq5milAzwKvw6ez/e4z2HJ/wDrUAZ9FdANPhiGZMD6nP8AgP51JH5B/wBWu76AAfypDsYCQu/3RUn2ST0/WunWMnon5mn+S/8AdH50rodjnNPVSxJ68VvQ8RBh1blvr6fh0A7VyiOUOV4NalvqO373GevcH6j+tMSKl1I7Od3UH8q1bEhYx9KVjb3XXr6g5/8Ar/pTVjEGADuX9RSewGmJ8U77QaoiQU7zRWdjS5y1FFFbGQtPErjox/Oo6KALK3Tjg8077WfT9aqUUAf/2Q==",
+              "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZmI4ODc0NzlmMjQ4NDI5Y2I4ODYzMDlkMWZiYjMyYzkzMDA1NDk1NDA4NzI2MzEzNTIyIiwic2VydmVyX3Rva2VuIjoiMTY3MzA2Mjc0ODYwNnwzMDA1NDk1NDA4NzI2MzEzNTIyfDU3NjE3NzMxNTgzfGI1ZDZiZWU2MjY0ODE3ZjUzYzI0YWZkODQwYjBiZDk4YzQ2MTFkYWE3NjgxYzNiMzkxODhjNWMwODliMDhmMmEifSwic2lnbmF0dXJlIjoiIn0=",
+              "has_upcoming_event": false,
+              "edge_media_to_tagged_user": {
+                "edges": []
+              },
+              "accessibility_caption": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": 3005495407761558000,
+              "gating_info": null,
+              "fact_check_overall_rating": null,
+              "fact_check_information": null,
+              "media_overlay_info": null,
+              "sensitivity_friction_info": null,
+              "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+              },
+              "dimensions": {
+                "height": 1080,
+                "width": 1080
+              },
+              "display_url": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/322510942_613889933829691_8739406132329063460_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=rUfj0TAIYRYAX_4qy95&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCZXMElmwVJPcmjSDPR_qG_3lePu5Kd0OGY201reND6Mw&oe=63BD99DC&_nc_sid=86f79a",
+              "display_resources": [
+                {
+                  "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/322510942_613889933829691_8739406132329063460_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=rUfj0TAIYRYAX_4qy95&edm=APU89FABAAAA&ccb=7-5&oh=00_AfA7gqgrCwPIrGbPRajoH5VmPG_CCq-rECqyP8R2FgYD2Q&oe=63BD99DC&_nc_sid=86f79a",
+                  "config_width": 640,
+                  "config_height": 640
+                },
+                {
+                  "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/322510942_613889933829691_8739406132329063460_n.jpg?stp=dst-jpg_e35_s750x750_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=rUfj0TAIYRYAX_4qy95&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCUyVSmu1M_d4AOvcNGn_vDW4JUM0iGt2nq1B4cNsAiAQ&oe=63BD99DC&_nc_sid=86f79a",
+                  "config_width": 750,
+                  "config_height": 750
+                },
+                {
+                  "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/322510942_613889933829691_8739406132329063460_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=rUfj0TAIYRYAX_4qy95&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCZXMElmwVJPcmjSDPR_qG_3lePu5Kd0OGY201reND6Mw&oe=63BD99DC&_nc_sid=86f79a",
+                  "config_width": 1080,
+                  "config_height": 1080
+                }
+              ],
+              "is_video": false,
+              "media_preview": "ACoqwGt5F6j8qhrsTEw6oPzqpKIh/rFI/AH+hpXHY5iit77Jbz/6sj+R/wA/hVSbTmT7v4A9/oRxTAzKKcyFDhhg02gR2hnNVZnDCmmUVA37w7QcZ7+lZJGjMVWKudpxg101vmWMCQdRyP8AP+RVNLaCD5j8x9TwP1x/WmT6igG0cj0Xv9T/AEH61oRsQXigx7j1HQ+vOAfxH+NZFTz3DTHJ4HYVBTEWjdN2qLz5P7x/A1FRQApJPXmkoooAKKKKAP/Z",
+              "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZmI4ODc0NzlmMjQ4NDI5Y2I4ODYzMDlkMWZiYjMyYzkzMDA1NDk1NDA3NzYxNTU3OTAyIiwic2VydmVyX3Rva2VuIjoiMTY3MzA2Mjc0ODYwN3wzMDA1NDk1NDA3NzYxNTU3OTAyfDU3NjE3NzMxNTgzfDU1MzIwMzFhMGZiODljZDQyMzllYjA0Yzg4ZmFmZTViZmM5OGUwNTUxMDY5NTAwMGIzN2MwYzAyMjYwZjhkMTQifSwic2lnbmF0dXJlIjoiIn0=",
+              "has_upcoming_event": false,
+              "edge_media_to_tagged_user": {
+                "edges": []
+              },
+              "accessibility_caption": null
+            }
+          }
+        ]
+      }
+    },
+    {
+      "__typename": "GraphVideo",
+      "id": 8,
+      "gating_info": null,
+      "fact_check_overall_rating": null,
+      "fact_check_information": null,
+      "media_overlay_info": null,
+      "sensitivity_friction_info": null,
+      "sharing_friction_info": {
+        "should_have_sharing_friction": false,
+        "bloks_app_url": null
+      },
+      "dimensions": {
+        "height": 1919,
+        "width": 1080
+      },
+      "display_url": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323310793_1169803300573139_8511847468776876376_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=CR78CKi_LTIAX8fZxiX&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDidCPCm-QU1LgqNIe0l5OSzX8XJpk4hmV2CvfM7KtC9Q&oe=63BAB3CF&_nc_sid=86f79a",
+      "display_resources": [
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323310793_1169803300573139_8511847468776876376_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=CR78CKi_LTIAX8fZxiX&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAWv_6CTLny_nnvHPXSVZEkbHvresmtPe1do3lqakF0Rg&oe=63BEA84F&_nc_sid=86f79a",
+          "config_width": 640,
+          "config_height": 1137
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323310793_1169803300573139_8511847468776876376_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=CR78CKi_LTIAX8fZxiX&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBLEfd3OLZO_NBEZKkftv8J3vhH7bEqxPFJa2zbQ_Lg8Q&oe=63BEA84F&_nc_sid=86f79a",
+          "config_width": 750,
+          "config_height": 1332
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323310793_1169803300573139_8511847468776876376_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=CR78CKi_LTIAX8fZxiX&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCysdOodLeg2Ka3fviRjV4Lw7uQbdWjOw_Nox2HruoNaA&oe=63BEA84F&_nc_sid=86f79a",
+          "config_width": 1080,
+          "config_height": 1919
+        }
+      ],
+      "is_video": true,
+      "media_preview": "ABgqxcUm2p8U3FMCLFFPIooAubPWoXGKmuZfLxx1qkZye1ACmihXDex9KKAGz3BnOSAAOgFQ00U6gQg45FFBooA//9k=",
+      "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZmI4ODc0NzlmMjQ4NDI5Y2I4ODYzMDlkMWZiYjMyYzkzMDA0NzU5MTk0MjUzMjYxOTgyIiwic2VydmVyX3Rva2VuIjoiMTY3MzA2Mjc0ODYwN3wzMDA0NzU5MTk0MjUzMjYxOTgyfDU3NjE3NzMxNTgzfDI5MGIzNzIwMzRkNTExNTBmNzkyZTA5NTZkNzUxNGMyMjRhYWVjNmJjNWNmOWFhMTIxNDkwOTQ1NzVlM2RjMTEifSwic2lnbmF0dXJlIjoiIn0=",
+      "has_upcoming_event": false,
+      "edge_media_to_tagged_user": {
+        "edges": []
+      },
+      "dash_info": {
+        "is_dash_eligible": true,
+        "video_dash_manifest": "<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"urn:mpeg:dash:schema:mpd:2011 DASH-MPD.xsd\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011\" minBufferTime=\"PT2S\" type=\"static\" mediaPresentationDuration=\"PT0H3M24.672S\" maxSegmentDuration=\"PT0H0M5.035S\">\n  <Period id=\"0\" duration=\"PT0H3M24.672S\">\n    <AdaptationSet id=\"0\" contentType=\"video\" width=\"1920\" height=\"1080\" frameRate=\"15360/256\" subsegmentAlignment=\"true\" par=\"16:9\">\n      <Representation id=\"1364752400729672vd\" bandwidth=\"500830\" codecs=\"vp09.00.40.08.00.01.01.01.00\" mimeType=\"video/mp4\" sar=\"1:1\" width=\"1920\" height=\"1080\" FBQualityClass=\"hd\" FBQualityLabel=\"1920w\" FBPlaybackResolutionMos=\"0:100.00,360:95.04,480:93.90,720:91.47,1080:83.50\">\n        <BaseURL urlExpiration=\"1673169993\">https://scontent-waw1-1.cdninstagram.com/v/t66.30100-16/10000000_877680800016308_6555300824911102993_n.mp4?_nc_ht=scontent-waw1-1.cdninstagram.com&amp;_nc_cat=108&amp;_nc_ohc=LdsP2zN-x2oAX9K8umC&amp;edm=APU89FABAAAA&amp;ccb=7-5&amp;oh=00_AfCckmzRZgSp7yJXj-rG2vDKRfUHw9BWlfyYZ0u0-fKdeQ&amp;oe=63BA8C49&amp;_nc_sid=86f79a</BaseURL>\n        <SegmentBase indexRange=\"792-1315\" timescale=\"15360\" FBFirstSegmentRange=\"1316-908893\" FBSecondSegmentRange=\"908894-1672768\" FBPrefetchSegmentRange=\"1316-1672768\">\n          <Initialization range=\"0-791\"/>\n        </SegmentBase>\n      </Representation>\n    <Representation id=\"3404041926546682v\" bandwidth=\"128226\" codecs=\"vp09.00.31.08.00.01.01.01.00\" mimeType=\"video/mp4\" sar=\"1:1\" width=\"1280\" height=\"720\" FBQualityClass=\"hd\" FBQualityLabel=\"1280w\" FBPlaybackResolutionMos=\"0:100.00,360:90.69,480:89.11,720:83.77,1080:72.52\">\n        <BaseURL urlExpiration=\"1673184815\">https://scontent-waw1-1.cdninstagram.com/v/t66.30100-16/321203833_6098937946797026_4605743788952438359_n.mp4?_nc_ht=scontent-waw1-1.cdninstagram.com&amp;_nc_cat=102&amp;_nc_ohc=UAnXUhOqZHUAX_jVJO5&amp;tn=0B2WRHKYYn02g1Cu&amp;edm=APU89FABAAAA&amp;ccb=7-5&amp;oh=00_AfALqWkCgSC0ycON0VDkdqw1rXXoWkIEWy-jiHNuj6UqDA&amp;oe=63BAC62F&amp;_nc_sid=86f79a</BaseURL>\n        <SegmentBase indexRange=\"792-1315\" timescale=\"15360\" FBFirstSegmentRange=\"1316-202055\" FBSecondSegmentRange=\"202056-374421\" FBPrefetchSegmentRange=\"1316-374421\">\n          <Initialization range=\"0-791\"/>\n        </SegmentBase>\n      </Representation>\n    <Representation id=\"864718328005357v\" bandwidth=\"241915\" codecs=\"vp09.00.31.08.00.01.01.01.00\" mimeType=\"video/mp4\" sar=\"1:1\" width=\"1280\" height=\"720\" FBQualityClass=\"hd\" FBQualityLabel=\"1280w\" FBPlaybackResolutionMos=\"0:100.00,360:93.57,480:92.51,720:87.17,1080:75.44\">\n        <BaseURL urlExpiration=\"1673165137\">https://scontent-waw1-1.cdninstagram.com/v/t66.30100-16/48308488_576198374344550_1749574675832547227_n.mp4?_nc_ht=scontent-waw1-1.cdninstagram.com&amp;_nc_cat=102&amp;_nc_ohc=UpOIABACFHQAX_5o6Wb&amp;edm=APU89FABAAAA&amp;ccb=7-5&amp;oh=00_AfCl-yrg47R0_qVF68neszZbAi4jicC_3gjNpRODCCYdQg&amp;oe=63BA7951&amp;_nc_sid=86f79a</BaseURL>\n        <SegmentBase indexRange=\"792-1315\" timescale=\"15360\" FBFirstSegmentRange=\"1316-380128\" FBSecondSegmentRange=\"380129-704974\" FBPrefetchSegmentRange=\"1316-704974\">\n          <Initialization range=\"0-791\"/>\n        </SegmentBase>\n      </Representation>\n    <Representation id=\"684097866513877v\" bandwidth=\"395170\" codecs=\"vp09.00.40.08.00.01.01.01.00\" mimeType=\"video/mp4\" sar=\"1:1\" width=\"1920\" height=\"1080\" FBQualityClass=\"hd\" FBQualityLabel=\"1920w\" FBPlaybackResolutionMos=\"0:100.00,360:95.01,480:94.01,720:91.96,1080:84.87\">\n        <BaseURL urlExpiration=\"1673191990\">https://scontent-waw1-1.cdninstagram.com/v/t66.30100-16/10000000_1298966127338110_420831346972047141_n.mp4?_nc_ht=scontent-waw1-1.cdninstagram.com&amp;_nc_cat=110&amp;_nc_ohc=mtBudgv9pfQAX8rtY1f&amp;edm=APU89FABAAAA&amp;ccb=7-5&amp;oh=00_AfCqG1pBcOesMlmgrdtJIB_UsZwnvidCoW7WqiptKGT7pA&amp;oe=63BAE236&amp;_nc_sid=86f79a</BaseURL>\n        <SegmentBase indexRange=\"792-1315\" timescale=\"15360\" FBFirstSegmentRange=\"1316-663207\" FBSecondSegmentRange=\"663208-1218890\" FBPrefetchSegmentRange=\"1316-1218890\">\n          <Initialization range=\"0-791\"/>\n        </SegmentBase>\n      </Representation>\n    </AdaptationSet>\n  <AdaptationSet segmentAlignment=\"true\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"694530072156069ad\" mimeType=\"audio/mp4\" codecs=\"mp4a.40.5\" audioSamplingRate=\"48000\" startWithSAP=\"1\" bandwidth=\"86778\">\n    <AudioChannelConfiguration schemeIdUri=\"urn:mpeg:dash:23003:3:audio_channel_configuration:2011\" value=\"2\"/>\n    <BaseURL urlExpiration=\"1673157376\">https://scontent-waw1-1.cdninstagram.com/v/t66.30100-16/322445197_108411898723146_961078038945391577_n.mp4?_nc_ht=scontent-waw1-1.cdninstagram.com&amp;_nc_cat=106&amp;_nc_ohc=w38Uik3GbcwAX8R9gvx&amp;tn=0B2WRHKYYn02g1Cu&amp;edm=APU89FABAAAA&amp;ccb=7-5&amp;oh=00_AfBxn1rI-oAE4zKGwC5OI4RU9OiSaEgNrAubLgg0wfdOUA&amp;oe=63BA5B00&amp;_nc_sid=86f79a</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"783-1306\" FBFirstSegmentRange=\"1307-61799\" FBSecondSegmentRange=\"61800-117431\" FBPrefetchSegmentRange=\"1307-117431\">\n      <Initialization range=\"0-782\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n </Period>\n</MPD>",
+        "number_of_qualities": 4
+      },
+      "has_audio": true,
+      "video_url": "https://scontent-waw1-1.cdninstagram.com/v/t66.30100-16/10000000_3475963186024104_666582992206652156_n.mp4?_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=100&_nc_ohc=bmu4CN-9Ty8AX-WBSwo&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBDa4yUgNbRDOLLbS0k-Krf8bK07wEORkIfSwH1kOut9w&oe=63BA5C96&_nc_sid=86f79a",
+      "video_view_count": 2917458,
+      "edge_media_to_caption": {
+        "edges": [
+          {
+            "node": {
+              "text": "What’s Up? 🎼\n\nIf you wake up in the morning and step outside, and take a deep breath and look real high—there’s no need to scream from the top of your lungs: here’s what’s going on. Throughout January, a newly discovered comet may be seen gliding across the sky towards the northwest in the Northern Hemisphere, with visibility in the Southern Hemisphere beginning in February. \n\nJanuary brings ample opportunity to gaze upon the bright constellations of winter: looking towards the south or southeast after dark you’ll spy the Orion, Canis Major, Canis Minor, Taurus, and Gemini constellations shining in the night sky. After the sun sets, skygazers will also be treated to the sights of Venus, Mars, Jupiter, and Saturn all month long. Plus, expect the full \"Wolf\" Moon on Jan. 6. \n\nCredit: NASA/JPL-Caltech\n\n#NASA #Space #Stars #Moon #Venus #Mars #Jupiter #Saturn #WolfMoon #Comet #Stargazing #4NonBlondes #HEYYEYAAEYAAAEYAEYAA"
+            }
+          }
+        ]
+      },
+      "shortcode": "CmzDJE5Dfye",
+      "edge_media_to_comment": {
+        "count": 1157,
+        "page_info": {
+          "has_next_page": true,
+          "end_cursor": ""
+        },
+        "content": {
+          "user": null,
+          "other": [
+            {
+              "id": 1,
+              "name": "Anna",
+              "body": "This is My comment"
+            },
+            {
+              "id": 2,
+              "name": "Minh Lê",
+              "body": "Your are very beautiful"
+            }
+          ]
+        }
+      },
+      "edge_media_to_sponsor_user": {
+        "edges": []
+      },
+      "is_affiliate": false,
+      "is_paid_partnership": false,
+      "comments_disabled": false,
+      "taken_at_timestamp": 1672415672,
+      "edge_media_preview_like": {
+        "count": 605646,
+        "edges": []
+      },
+      "owner": {
+        "id": "528817158",
+        "username": "Germanyn",
+        "email": "Geramany1145@gmail.com"
+      },
+      "location": null,
+      "nft_asset_info": null,
+      "viewer_has_liked": false,
+      "viewer_has_saved": false,
+      "viewer_has_saved_to_collection": false,
+      "viewer_in_photo_of_you": false,
+      "viewer_can_reshare": true,
+      "thumbnail_src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323310793_1169803300573139_8511847468776876376_n.jpg?stp=c0.419.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=CR78CKi_LTIAX8fZxiX&edm=APU89FABAAAA&ccb=7-5&oh=00_AfB1_jtiQCdvhN4xsOLwHQ0YVZhEUglOHtY4iqnriaofMw&oe=63BAB3CF&_nc_sid=86f79a",
+      "thumbnail_resources": [
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323310793_1169803300573139_8511847468776876376_n.jpg?stp=c0.419.1080.1080a_dst-jpg_e15_s150x150&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=CR78CKi_LTIAX8fZxiX&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDrvMnQG9F35f4nhSxcN-2d0JVC7xAjFLUboG5gnc-htA&oe=63BEA84F&_nc_sid=86f79a",
+          "config_width": 150,
+          "config_height": 150
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323310793_1169803300573139_8511847468776876376_n.jpg?stp=c0.419.1080.1080a_dst-jpg_e15_s240x240&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=CR78CKi_LTIAX8fZxiX&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBeIoJLOixIG_xRcSoF0N5j0vveIYQkSDEFsVD9E4k5uA&oe=63BEA84F&_nc_sid=86f79a",
+          "config_width": 240,
+          "config_height": 240
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323310793_1169803300573139_8511847468776876376_n.jpg?stp=c0.419.1080.1080a_dst-jpg_e15_s320x320&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=CR78CKi_LTIAX8fZxiX&edm=APU89FABAAAA&ccb=7-5&oh=00_AfB22g9lWL1Wocct7HdVu8Kn5dhixOuF0e8w5Cd24t0kDA&oe=63BEA84F&_nc_sid=86f79a",
+          "config_width": 320,
+          "config_height": 320
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323310793_1169803300573139_8511847468776876376_n.jpg?stp=c0.419.1080.1080a_dst-jpg_e15_s480x480&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=CR78CKi_LTIAX8fZxiX&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDcLYf2daaQ9_DuXu-AQ9Jrrn6Cm1-1PPJDIQgc8b5ijw&oe=63BEA84F&_nc_sid=86f79a",
+          "config_width": 480,
+          "config_height": 480
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/323310793_1169803300573139_8511847468776876376_n.jpg?stp=c0.419.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=CR78CKi_LTIAX8fZxiX&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCLvIocQ0u3qcF5UeG7CSwlr2IqdEIGqgokbhdH5ry4zg&oe=63BEA84F&_nc_sid=86f79a",
+          "config_width": 640,
+          "config_height": 640
+        }
+      ],
+      "coauthor_producers": [],
+      "isVisited": true,
+      "pinned_for_users": [
+        {
+          "id": 1,
+          "src": "https://images.pexels.com/photos/1319908/pexels-photo-1319908.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 2,
+          "src": "https://images.pexels.com/photos/902030/pexels-photo-902030.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 3,
+          "src": "https://images.pexels.com/photos/206551/pexels-photo-206551.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 4,
+          "src": "https://images.pexels.com/photos/45853/grey-crowned-crane-bird-crane-animal-45853.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 5,
+          "src": "https://images.pexels.com/photos/765062/pexels-photo-765062.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 6,
+          "src": "https://images.pexels.com/photos/36762/scarlet-honeyeater-bird-red-feathers.jpg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 7,
+          "src": "https://images.pexels.com/photos/413959/pexels-photo-413959.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 8,
+          "src": "https://images.pexels.com/photos/33045/lion-wild-africa-african.jpg?auto=compress&cs=tinysrgb&w=1600"
+        }
+      ],
+      "product_type": "clips"
+    },
+    {
+      "__typename": "GraphImage",
+      "id": 9,
+      "gating_info": null,
+      "fact_check_overall_rating": null,
+      "fact_check_information": null,
+      "media_overlay_info": null,
+      "sensitivity_friction_info": null,
+      "sharing_friction_info": {
+        "should_have_sharing_friction": false,
+        "bloks_app_url": null
+      },
+      "dimensions": {
+        "height": 820,
+        "width": 1080
+      },
+      "display_url": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/322962977_922913182200812_1448633841595762209_n.jpg?stp=dst-jpg_e15_fr_s1080x1080&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=jIx6mphY9V4AX8H7lH0&edm=APU89FABAAAA&ccb=7-5&oh=00_AfD4kjJQxQHGCf4dtBrjUJegD0HYJGhXcSl_JIzKy1nQ1A&oe=63BD5764&_nc_sid=86f79a",
+      "display_resources": [
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/322962977_922913182200812_1448633841595762209_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=jIx6mphY9V4AX8H7lH0&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDJGs4S4uLw5jGm7fMBt08cknv6ILtXZ-QVIKOftMVmAw&oe=63BD5764&_nc_sid=86f79a",
+          "config_width": 640,
+          "config_height": 485
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/322962977_922913182200812_1448633841595762209_n.jpg?stp=dst-jpg_e35_s750x750_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=jIx6mphY9V4AX8H7lH0&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDwpVwVY2_tO9CBHpjHORo8ujjJ2dhRhO0lw5xspbRsTA&oe=63BD5764&_nc_sid=86f79a",
+          "config_width": 750,
+          "config_height": 569
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/322962977_922913182200812_1448633841595762209_n.jpg?stp=dst-jpg_e15_fr_s1080x1080&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=jIx6mphY9V4AX8H7lH0&edm=APU89FABAAAA&ccb=7-5&oh=00_AfD4kjJQxQHGCf4dtBrjUJegD0HYJGhXcSl_JIzKy1nQ1A&oe=63BD5764&_nc_sid=86f79a",
+          "config_width": 1080,
+          "config_height": 820
+        }
+      ],
+      "is_video": false,
+      "media_preview": "ACog5qngAr33Z/DFMHNW44jgenf1p2uJuxB5ZH1ppQr1rcjtOM4561G8ZjUnP1FPRk3MWinuuDimVJYo61oxSLxk9O+OPyrNp6uV6U0Jq50gvAF9u/v/AIVlXVxv6fX/ACaotKzdaYSe9LRbCt3AknmkopKCj//Z",
+      "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZmI4ODc0NzlmMjQ4NDI5Y2I4ODYzMDlkMWZiYjMyYzkzMDA0MTk4NzEyODM2MDk2NDQzIiwic2VydmVyX3Rva2VuIjoiMTY3MzA2Mjc0ODYwN3wzMDA0MTk4NzEyODM2MDk2NDQzfDU3NjE3NzMxNTgzfGU1ZjlmNGY4Nzc2MjRjMzczNjg4MTgzOTI4ZjBmMDI3NzgwYWI5NWQ4ZGI3NGYxMTY4M2UyMGZjMDY2ODdiMTkifSwic2lnbmF0dXJlIjoiIn0=",
+      "has_upcoming_event": false,
+      "edge_media_to_tagged_user": {
+        "edges": []
+      },
+      "accessibility_caption": null,
+      "edge_media_to_caption": {
+        "edges": [
+          {
+            "node": {
+              "text": "We mark the passing of the legendary Pelé, known to many as the king of the \"beautiful game.\" This image of a spiral galaxy in the constellation Sculptor shows the colors of Brazil.⁣\n⁣\nImage Description: Image of a spiral galaxy with spiral arms dotted with blue stars of varying intensity. The core of the galaxy is brightest and the stars appear yellow-green. The image was taken by the Galaxy Evolution Explorer satellite, or GALEX. ⁣\n⁣\nCredit: NASA/JPL-Caltech⁣\n⁣\n#Pele #ReiPele #Futebol #Space #Galaxy #NASA"
+            }
+          }
+        ]
+      },
+      "shortcode": "CmxDs_5SAG7",
+      "edge_media_to_comment": {
+        "count": 10822,
+        "page_info": {
+          "has_next_page": true,
+          "end_cursor": ""
+        },
+        "content": {
+          "user": null,
+          "other": [
+            {
+              "id": 1,
+              "name": "Anna",
+              "body": "This is My comment"
+            },
+            {
+              "id": 2,
+              "name": "Minh Lê",
+              "body": "Your are very beautiful"
+            }
+          ]
+        }
+      },
+      "edge_media_to_sponsor_user": {
+        "edges": []
+      },
+      "is_affiliate": false,
+      "is_paid_partnership": false,
+      "comments_disabled": false,
+      "taken_at_timestamp": 1672348415,
+      "edge_media_preview_like": {
+        "count": 1808946,
+        "edges": []
+      },
+      "owner": {
+        "id": "528817159",
+        "username": "Bostinaany",
+        "email": "Bostini1145@gmail.com"
+      },
+      "location": null,
+      "nft_asset_info": null,
+      "viewer_has_liked": false,
+      "viewer_has_saved": false,
+      "viewer_has_saved_to_collection": false,
+      "viewer_in_photo_of_you": false,
+      "viewer_can_reshare": true,
+      "thumbnail_src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/322962977_922913182200812_1448633841595762209_n.jpg?stp=c130.0.820.820a_dst-jpg_e15_s640x640&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=jIx6mphY9V4AX8H7lH0&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAGf55T6BRkxXpmivcz_A9Kc5NUrfVpY5x-WsFDJv0IZQ&oe=63BD5764&_nc_sid=86f79a",
+      "thumbnail_resources": [
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/322962977_922913182200812_1448633841595762209_n.jpg?stp=c130.0.820.820a_dst-jpg_e15_s150x150&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=jIx6mphY9V4AX8H7lH0&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDJmraHWszLBzC-B34MvNLiI2TId99LgluAcinkIWYxHg&oe=63BD5764&_nc_sid=86f79a",
+          "config_width": 150,
+          "config_height": 150
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/322962977_922913182200812_1448633841595762209_n.jpg?stp=c130.0.820.820a_dst-jpg_e15_s240x240&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=jIx6mphY9V4AX8H7lH0&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDWFErAkI8UrVp-2SZPel-yRS51fEK0KINDU9QMPx8kig&oe=63BD5764&_nc_sid=86f79a",
+          "config_width": 240,
+          "config_height": 240
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/322962977_922913182200812_1448633841595762209_n.jpg?stp=c130.0.820.820a_dst-jpg_e15_s320x320&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=jIx6mphY9V4AX8H7lH0&edm=APU89FABAAAA&ccb=7-5&oh=00_AfACqSZ5Q3M3pHNAIM7ZmCYy3SzuhU9HnENUeIpn6it3tg&oe=63BD5764&_nc_sid=86f79a",
+          "config_width": 320,
+          "config_height": 320
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/322962977_922913182200812_1448633841595762209_n.jpg?stp=c130.0.820.820a_dst-jpg_e15_s480x480&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=jIx6mphY9V4AX8H7lH0&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCW4UHtlyat8HCPF47idyGSTy-crU6EVr3YbQvcR6pvNA&oe=63BD5764&_nc_sid=86f79a",
+          "config_width": 480,
+          "config_height": 480
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/322962977_922913182200812_1448633841595762209_n.jpg?stp=c130.0.820.820a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=jIx6mphY9V4AX8H7lH0&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBQPHqciIqtX-ENykGDRFRm2mTVFHemtzUhVcdcr3bOAQ&oe=63BD5764&_nc_sid=86f79a",
+          "config_width": 640,
+          "config_height": 640
+        }
+      ],
+      "coauthor_producers": [],
+      "isVisited": true,
+      "pinned_for_users": [
+        {
+          "id": 1,
+          "src": "https://images.pexels.com/photos/3410361/pexels-photo-3410361.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 2,
+          "src": "https://images.pexels.com/photos/157728/straw-field-hair-nature-157728.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 3,
+          "src": "https://images.pexels.com/photos/675920/pexels-photo-675920.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 4,
+          "src": "https://images.pexels.com/photos/45853/grey-crowned-crane-bird-crane-animal-45853.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 5,
+          "src": "https://images.pexels.com/photos/1375849/pexels-photo-1375849.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 6,
+          "src": "https://images.pexels.com/photos/36762/scarlet-honeyeater-bird-red-feathers.jpg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 7,
+          "src": "https://images.pexels.com/photos/1433052/pexels-photo-1433052.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 8,
+          "src": "https://images.pexels.com/photos/33045/lion-wild-africa-african.jpg?auto=compress&cs=tinysrgb&w=1600"
+        }
+      ]
+    },
+    {
+      "__typename": "GraphVideo",
+      "id": 10,
+      "gating_info": null,
+      "fact_check_overall_rating": null,
+      "fact_check_information": null,
+      "media_overlay_info": null,
+      "sensitivity_friction_info": null,
+      "sharing_friction_info": {
+        "should_have_sharing_friction": false,
+        "bloks_app_url": null
+      },
+      "dimensions": {
+        "height": 1087,
+        "width": 612
+      },
+      "display_url": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/321935427_674315474336000_3227869381432604193_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=108&_nc_ohc=8p6pmYK7DB4AX-g267o&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBbI60-h5gKl7t5oI7Eg1v3cSt_JpJ65r5mhaV59Lbwpg&oe=63BA9DD2&_nc_sid=86f79a",
+      "display_resources": [
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/321935427_674315474336000_3227869381432604193_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=108&_nc_ohc=8p6pmYK7DB4AX-g267o&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBW3ZqGP0FARCxDqXQ_7JNHXHcJJEy52o-viOxHIPpu1A&oe=63BDE992&_nc_sid=86f79a",
+          "config_width": 640,
+          "config_height": 1136
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/321935427_674315474336000_3227869381432604193_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=108&_nc_ohc=8p6pmYK7DB4AX-g267o&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBW3ZqGP0FARCxDqXQ_7JNHXHcJJEy52o-viOxHIPpu1A&oe=63BDE992&_nc_sid=86f79a",
+          "config_width": 750,
+          "config_height": 1332
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/321935427_674315474336000_3227869381432604193_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=108&_nc_ohc=8p6pmYK7DB4AX-g267o&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBW3ZqGP0FARCxDqXQ_7JNHXHcJJEy52o-viOxHIPpu1A&oe=63BDE992&_nc_sid=86f79a",
+          "config_width": 1080,
+          "config_height": 1918
+        }
+      ],
+      "is_video": true,
+      "media_preview": "ABgq5unbT1wfyrYtLRVG5hlv5fSr55GAahysaKFzlqK2Z7RZASOHH5H6/wCNFNNMlxaJPN4GKPOIwazI5+MGpVmqWilIvvL3FFZ0kwooUQcilS5NJRWhmFFFFAH/2Q==",
+      "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZmI4ODc0NzlmMjQ4NDI5Y2I4ODYzMDlkMWZiYjMyYzkzMDAzNDE1MzM4MzEyMDI5NTg5Iiwic2VydmVyX3Rva2VuIjoiMTY3MzA2Mjc0ODYwN3wzMDAzNDE1MzM4MzEyMDI5NTg5fDU3NjE3NzMxNTgzfDkwNWViMGQ3NzNjNDI0ZDAzOThiZDFkYTQ5ZWJhOGQxNGNlMDRhOGU0M2I2Yjc5NjZhMzY4NDVkNzZmZDkyNDkifSwic2lnbmF0dXJlIjoiIn0=",
+      "has_upcoming_event": false,
+      "edge_media_to_tagged_user": {
+        "edges": []
+      },
+      "dash_info": {
+        "is_dash_eligible": true,
+        "video_dash_manifest": "<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"urn:mpeg:dash:schema:mpd:2011 DASH-MPD.xsd\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011\" minBufferTime=\"PT2S\" type=\"static\" mediaPresentationDuration=\"PT0H1M5.771S\" maxSegmentDuration=\"PT0H0M5.035S\">\n  <Period id=\"0\" duration=\"PT0H1M5.771S\">\n    <AdaptationSet id=\"0\" contentType=\"video\" width=\"606\" height=\"1080\" frameRate=\"15360/512\" subsegmentAlignment=\"true\" par=\"9:16\">\n      <Representation id=\"568840191261758vd\" bandwidth=\"785436\" codecs=\"vp09.00.31.08.00.01.01.01.00\" mimeType=\"video/mp4\" sar=\"1:1\" width=\"606\" height=\"1080\" FBQualityClass=\"sd\" FBQualityLabel=\"606w\" FBPlaybackResolutionMos=\"0:100.00,360:88.77,480:85.77,606:79.21\">\n        <BaseURL urlExpiration=\"1673179866\">https://scontent-waw1-1.cdninstagram.com/v/t66.30100-16/321151154_1275981002965401_9147216410525166744_n.mp4?_nc_ht=scontent-waw1-1.cdninstagram.com&amp;_nc_cat=109&amp;_nc_ohc=IxfO0hU3kkQAX8Uzo5G&amp;tn=0B2WRHKYYn02g1Cu&amp;edm=APU89FABAAAA&amp;ccb=7-5&amp;oh=00_AfATRxKToAEXapvwlKSgLauVxPZ4G3Q_lkb63YJR8oMGYQ&amp;oe=63BAB2DA&amp;_nc_sid=86f79a</BaseURL>\n        <SegmentBase indexRange=\"792-991\" timescale=\"15360\" FBFirstSegmentRange=\"992-122403\" FBSecondSegmentRange=\"122404-552467\" FBPrefetchSegmentRange=\"992-552467\">\n          <Initialization range=\"0-791\"/>\n        </SegmentBase>\n      </Representation>\n    <Representation id=\"1209807549973389v\" bandwidth=\"116727\" codecs=\"vp09.00.30.08.00.01.01.01.00\" mimeType=\"video/mp4\" sar=\"40097:40140\" width=\"446\" height=\"794\" FBQualityClass=\"sd\" FBQualityLabel=\"446w\" FBPlaybackResolutionMos=\"0:100.00,360:55.89,480:51.40,606:44.02\">\n        <BaseURL urlExpiration=\"1673171915\">https://scontent-waw1-1.cdninstagram.com/v/t66.30100-16/322411930_883182206053733_926149121678117065_n.mp4?_nc_ht=scontent-waw1-1.cdninstagram.com&amp;_nc_cat=105&amp;_nc_ohc=_JoM-z3OkNEAX-DVRqU&amp;tn=0B2WRHKYYn02g1Cu&amp;edm=APU89FABAAAA&amp;ccb=7-5&amp;oh=00_AfDm8yoFPT9uqqgg6wugMuJRav6s1wn9c0fDfj64bSAs5Q&amp;oe=63BA93CB&amp;_nc_sid=86f79a</BaseURL>\n        <SegmentBase indexRange=\"808-1007\" timescale=\"15360\" FBFirstSegmentRange=\"1008-34437\" FBSecondSegmentRange=\"34438-106455\" FBPrefetchSegmentRange=\"1008-106455\">\n          <Initialization range=\"0-807\"/>\n        </SegmentBase>\n      </Representation>\n    <Representation id=\"874223483619924v\" bandwidth=\"305219\" codecs=\"vp09.00.31.08.00.01.01.01.00\" mimeType=\"video/mp4\" sar=\"1:1\" width=\"606\" height=\"1080\" FBQualityClass=\"sd\" FBQualityLabel=\"606w\" FBPlaybackResolutionMos=\"0:100.00,360:75.24,480:71.40,606:64.41\">\n        <BaseURL urlExpiration=\"1673185256\">https://scontent-waw1-1.cdninstagram.com/v/t66.30100-16/322254683_871308584018191_6987840861641886321_n.mp4?_nc_ht=scontent-waw1-1.cdninstagram.com&amp;_nc_cat=107&amp;_nc_ohc=LvpRmczBm9oAX-d6bik&amp;edm=APU89FABAAAA&amp;ccb=7-5&amp;oh=00_AfDbwce0bNP5Rrag_nLKPIoo6CElzNuPezpwsKLVFQAEYg&amp;oe=63BAC7E8&amp;_nc_sid=86f79a</BaseURL>\n        <SegmentBase indexRange=\"792-991\" timescale=\"15360\" FBFirstSegmentRange=\"992-63510\" FBSecondSegmentRange=\"63511-232941\" FBPrefetchSegmentRange=\"992-232941\">\n          <Initialization range=\"0-791\"/>\n        </SegmentBase>\n      </Representation>\n    <Representation id=\"6477990162230795v\" bandwidth=\"497313\" codecs=\"vp09.00.31.08.00.01.01.01.00\" mimeType=\"video/mp4\" sar=\"1:1\" width=\"606\" height=\"1080\" FBQualityClass=\"sd\" FBQualityLabel=\"606w\" FBPlaybackResolutionMos=\"0:100.00,360:83.33,480:79.23,606:73.06\">\n        <BaseURL urlExpiration=\"1673163245\">https://scontent-waw1-1.cdninstagram.com/v/t66.30100-16/316274293_1204738973454136_4290189549531662594_n.mp4?_nc_ht=scontent-waw1-1.cdninstagram.com&amp;_nc_cat=104&amp;_nc_ohc=nB4oc4djopwAX9XGGRb&amp;edm=APU89FABAAAA&amp;ccb=7-5&amp;oh=00_AfD6y-ufBrk5WTbaqXTDADJR3OV0TnuPlB1SqTp3MUP4rg&amp;oe=63BA71ED&amp;_nc_sid=86f79a</BaseURL>\n        <SegmentBase indexRange=\"792-991\" timescale=\"15360\" FBFirstSegmentRange=\"992-84961\" FBSecondSegmentRange=\"84962-352984\" FBPrefetchSegmentRange=\"992-352984\">\n          <Initialization range=\"0-791\"/>\n        </SegmentBase>\n      </Representation>\n    </AdaptationSet>\n  <AdaptationSet segmentAlignment=\"true\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"2313656478793252ad\" mimeType=\"audio/mp4\" codecs=\"mp4a.40.5\" audioSamplingRate=\"48000\" startWithSAP=\"1\" bandwidth=\"94071\">\n    <AudioChannelConfiguration schemeIdUri=\"urn:mpeg:dash:23003:3:audio_channel_configuration:2011\" value=\"2\"/>\n    <BaseURL urlExpiration=\"1673154678\">https://scontent-waw1-1.cdninstagram.com/v/t66.30100-16/165699183_565496238347311_48702483618097613_n.mp4?_nc_ht=scontent-waw1-1.cdninstagram.com&amp;_nc_cat=107&amp;_nc_ohc=KjY3YnA2L5kAX_gjYEo&amp;edm=APU89FABAAAA&amp;ccb=7-5&amp;oh=00_AfDyRp0voIX9DIMyI1gt37MQ2vPEJ6NRABREA7E9y3CNEA&amp;oe=63BA5076&amp;_nc_sid=86f79a</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"783-982\" FBFirstSegmentRange=\"983-67384\" FBSecondSegmentRange=\"67385-138910\" FBPrefetchSegmentRange=\"983-138910\">\n      <Initialization range=\"0-782\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n </Period>\n</MPD>",
+        "number_of_qualities": 4
+      },
+      "has_audio": true,
+      "video_url": "https://scontent-waw1-1.cdninstagram.com/v/t50.2886-16/10000000_1571070366741835_3445331453684337534_n.mp4?_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=107&_nc_ohc=MaXOzT_dvysAX_mXHmx&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAXnrAhDek36w8YU1Xhm32fmZutFpEsX_BNqJ_Adr26nA&oe=63BA89E7&_nc_sid=86f79a",
+      "video_view_count": 2129828,
+      "edge_media_to_caption": {
+        "edges": [
+          {
+            "node": {
+              "text": "Is there life on Mars? We have never discovered life on the Red Planet, but we have found lots of evidence that suggests Mars could have once supported life in its ancient past. ⁣\n⁣\nThere’s even a chance that Mars could harbor habitable conditions beneath its surface. NASA astrobiology expert Heather Graham explains more. ⁣\n⁣\nKeep up with all of NASA’s endeavors at the Red Planet: https://mars.nasa.gov⁣\n⁣\n#Mars #Astrobiology #Science #Space #Planets #NASA"
+            }
+          }
+        ]
+      },
+      "shortcode": "CmuRlZhDFWV",
+      "edge_media_to_comment": {
+        "count": 1369,
+        "page_info": {
+          "has_next_page": true,
+          "end_cursor": ""
+        },
+        "content": {
+          "user": [
+            {
+              "id": 1,
+              "body": "ok ae"
+            }
+          ],
+          "other": [
+            {
+              "id": 1,
+              "name": "Anna",
+              "body": "This is My comment"
+            },
+            {
+              "id": 2,
+              "name": "Minh Lê",
+              "body": "Your are very beautiful"
+            }
+          ]
+        }
+      },
+      "edge_media_to_sponsor_user": {
+        "edges": []
+      },
+      "is_affiliate": false,
+      "is_paid_partnership": false,
+      "comments_disabled": false,
+      "taken_at_timestamp": 1672255655,
+      "edge_media_preview_like": {
+        "count": 257868,
+        "edges": []
+      },
+      "owner": {
+        "id": "528817159",
+        "username": "Bostina",
+        "email": "BostinA1145@gmail.com"
+      },
+      "location": null,
+      "nft_asset_info": null,
+      "viewer_has_liked": true,
+      "viewer_has_saved": false,
+      "viewer_has_saved_to_collection": false,
+      "viewer_in_photo_of_you": false,
+      "viewer_can_reshare": true,
+      "thumbnail_src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/321935427_674315474336000_3227869381432604193_n.jpg?stp=c0.237.612.612a_dst-jpg_e15&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=108&_nc_ohc=8p6pmYK7DB4AX-g267o&edm=APU89FABAAAA&ccb=7-5&oh=00_AfA8ZazjSxor4o-COgyzFgQxR_wMoALH1wkviR5Ce5Ntyg&oe=63BA9DD2&_nc_sid=86f79a",
+      "thumbnail_resources": [
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/321935427_674315474336000_3227869381432604193_n.jpg?stp=c0.237.612.612a_dst-jpg_e15_s150x150&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=108&_nc_ohc=8p6pmYK7DB4AX-g267o&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBiDUw_9odLAkY9ZjpXJEguWNU8gDgMYZLfq5Je2oTwFA&oe=63BDE992&_nc_sid=86f79a",
+          "config_width": 150,
+          "config_height": 150
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/321935427_674315474336000_3227869381432604193_n.jpg?stp=c0.237.612.612a_dst-jpg_e15_s240x240&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=108&_nc_ohc=8p6pmYK7DB4AX-g267o&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCp0MmhdKtjobtgmJk2nkqHPi85h_qhI2BKB6lV3SDwLg&oe=63BDE992&_nc_sid=86f79a",
+          "config_width": 240,
+          "config_height": 240
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/321935427_674315474336000_3227869381432604193_n.jpg?stp=c0.237.612.612a_dst-jpg_e15_s320x320&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=108&_nc_ohc=8p6pmYK7DB4AX-g267o&edm=APU89FABAAAA&ccb=7-5&oh=00_AfC6fDsE7eT8F60NZtPnCIMMpRniSO6bQrmksUeZOPIr1w&oe=63BDE992&_nc_sid=86f79a",
+          "config_width": 320,
+          "config_height": 320
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/321935427_674315474336000_3227869381432604193_n.jpg?stp=c0.237.612.612a_dst-jpg_e15_s480x480&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=108&_nc_ohc=8p6pmYK7DB4AX-g267o&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDog2OGsuS7t2Dy9bU067gcwPrN9MAF807wDA0_GuN8Hw&oe=63BDE992&_nc_sid=86f79a",
+          "config_width": 480,
+          "config_height": 480
+        },
+        {
+          "src": "https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/321935427_674315474336000_3227869381432604193_n.jpg?stp=c0.237.612.612a_dst-jpg_e15&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=108&_nc_ohc=8p6pmYK7DB4AX-g267o&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDS4jOavTMgZVsj6K9dFRT1RZR3RHYb5gu1cJ6BWDa9aA&oe=63BDE992&_nc_sid=86f79a",
+          "config_width": 640,
+          "config_height": 640
+        }
+      ],
+      "coauthor_producers": [],
+      "isVisited": true,
+      "pinned_for_users": [
+        {
+          "id": 1,
+          "src": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 2,
+          "src": "https://images.pexels.com/photos/33109/fall-autumn-red-season.jpg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 3,
+          "src": "https://images.pexels.com/photos/719396/pexels-photo-719396.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 4,
+          "src": "https://images.pexels.com/photos/45853/grey-crowned-crane-bird-crane-animal-45853.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 5,
+          "src": "https://images.pexels.com/photos/765062/pexels-photo-765062.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 6,
+          "src": "https://images.pexels.com/photos/36762/scarlet-honeyeater-bird-red-feathers.jpg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 7,
+          "src": "https://images.pexels.com/photos/1433052/pexels-photo-1433052.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+          "id": 8,
+          "src": "https://images.pexels.com/photos/33045/lion-wild-africa-african.jpg?auto=compress&cs=tinysrgb&w=1600"
+        }
+      ],
+      "product_type": "clips"
+    }
+  ]
+}
