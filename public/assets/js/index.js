@@ -384,8 +384,8 @@ function MainBanner({ edges }) {
             <a href="#" className="banner__item">
               <div>
                 <img
-                  crossOrigin="anonymous"
-                  src={edge.thumbnail_resources[0].src}
+                  /* crossOrigin="anonymous" */
+                  src={edge.avatars[0].src}
                   alt={edge.owner.username}
                 />
               </div>
@@ -472,7 +472,7 @@ function PostItem({ edge, option, edges }) {
       <main className={"post__main" + " " + option}>
         <div className="main__image">
           <img
-            crossOrigin="anonymous"
+            /* crossOrigin="anonymous" */
             src={edge.pinned_for_users[0].src}
             alt={edge.owner.username}
             onDoubleClick={likedDbl(edge.id, edge.viewer_has_liked)}
@@ -642,8 +642,8 @@ function UserAvatar({ edge }) {
     <div className="user__avatar">
       <div>
         <img
-          crossOrigin="anonymous"
-          src={edge.thumbnail_resources[0].src}
+          // /* crossOrigin="anonymous" */
+          src={edge.avatars[0].src}
           alt={edge.owner.username}
         />
       </div>
@@ -658,8 +658,7 @@ function MiniProfile({ edge }) {
         <div className="user__avatar">
           <div>
             <img
-              crossOrigin="anonymous"
-              src={edge.thumbnail_resources[0].src}
+              /* crossOrigin="anonymous" */ src={edge.avatars[0].src}
               alt=""
             />
           </div>
@@ -712,21 +711,21 @@ function MiniProfile({ edge }) {
         <div className="profile__main__images lgrid l4-4-4 lgap-4">
           <div className="image__item">
             <img
-              crossOrigin="anonymous"
+              /* crossOrigin="anonymous" */
               src={edge.pinned_for_users[0].src || ""}
               alt=""
             />
           </div>
           <div className="image__item">
             <img
-              crossOrigin="anonymous"
+              /* crossOrigin="anonymous" */
               src={edge.pinned_for_users[1].src || ""}
               alt=""
             />
           </div>
           <div className="image__item">
             <img
-              crossOrigin="anonymous"
+              /* crossOrigin="anonymous" */
               src={edge.pinned_for_users[2].src || ""}
               alt=""
             />
@@ -765,8 +764,8 @@ function MainModalContent({ edge }) {
       <div className="main__modal__item row row-start">
         <div className="item__avatar">
           <img
-            crossOrigin="anonymous"
-            src={edge.thumbnail_resources[0].src}
+            /* crossOrigin="anonymous" */
+            src={edge.avatars[0].src}
             alt={edge.owner.username}
           />
         </div>
@@ -784,8 +783,8 @@ function MainModalContent({ edge }) {
           <div className="main__modal__item row row-start" key={index}>
             <div className="item__avatar">
               <img
-                crossOrigin="anonymous"
-                src={edge.thumbnail_resources[0].src}
+                /* crossOrigin="anonymous" */
+                src={edge.avatars[0].src}
                 alt={edge.owner.username}
               />
             </div>
@@ -804,8 +803,8 @@ function MainModalContent({ edge }) {
           <div className="main__modal__item row row-start" key={index}>
             <div className="item__avatar">
               <img
-                crossOrigin="anonymous"
-                src={edge.thumbnail_resources[0].src}
+                /* crossOrigin="anonymous" */
+                src={edge.avatars[0].src}
                 alt={edge.owner.username}
               />
             </div>
@@ -828,8 +827,8 @@ function MainRightHead({ edges }) {
       <div className="main__head__inf row">
         <div className="inf__img">
           <img
-            crossOrigin="anonymous"
-            src={edges[3].thumbnail_resources[0].src}
+            /* crossOrigin="anonymous" */
+            src={edges[3].avatars[0].src}
             alt={edges[3].owner.username}
           />
         </div>
@@ -876,8 +875,8 @@ function MainRightItem({ edge, option }) {
         <div className="item__inf--wrap row">
           <div className="inf__img">
             <img
-              crossOrigin="anonymous"
-              src={edge.thumbnail_resources[0].src}
+              /* crossOrigin="anonymous" */
+              src={edge.avatars[0].src}
               alt={edge.owner.username}
             />
           </div>
@@ -960,11 +959,7 @@ function Modal({ edges }) {
       {edges.map((edge, index) => (
         <div className="modal__content row" key={index} onClick={stopProp()}>
           <div className="modal__image">
-            <img
-              crossOrigin="anonymous"
-              src={edge.display_resources[0].src}
-              alt={edge.owner.username}
-            />
+            <img src={edge.pinned_for_users[0].src} alt={edge.owner.username} />
           </div>
           <PostItem edge={edge} option="modal-main" edges={edges} />
         </div>
