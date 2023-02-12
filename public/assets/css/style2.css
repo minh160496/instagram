@@ -76,6 +76,10 @@
     margin-left: 80px;
   }
 
+  .header__input {
+    inline-size: 250px;
+  }
+
   /* khong hien hover tren tablet */
   .header__user--hover.active {
     display: none;
@@ -85,8 +89,29 @@
     display: none;
   }
 
+  .main__banner {
+    inline-size: calc(100% - 250px);
+  }
+
+  .post {
+    inline-size: calc(100% - 250px);
+  }
+
   .modal .modal__content {
     height: 600px;
+  }
+
+  .modal .modal__image {
+    display: block;
+  }
+
+  .modal .post {
+    border-radius: 0;
+    box-shadow: none;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
   }
 }
 
@@ -201,6 +226,7 @@
     position: unset;
     display: block;
     min-block-size: 100%;
+    max-block-size: unset;
     box-shadow: unset;
   }
 
@@ -275,6 +301,10 @@
     display: block;
   }
 
+  .header__input {
+    inline-size: 250px;
+  }
+
   .header__logo.nav__logo {
     display: flex;
   }
@@ -324,6 +354,7 @@
 
   .main__banner {
     margin: 0;
+    inline-size: 500px;
   }
 
   .main--right {
@@ -332,5 +363,22 @@
 
   .modal .modal__content {
     height: 800px;
+  }
+
+  .modal .modal__image {
+    display: block;
+  }
+
+  .modal .post {
+    border-radius: 0;
+    box-shadow: none;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+
+  .post {
+    inline-size: 500px;
   }
 }

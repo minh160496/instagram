@@ -33,7 +33,7 @@ start();
 function App({ edges }) {
   return (
     <React.Fragment>
-      <Header edges={edges} />
+      <Header edges={edges} option="home" />
       <Nav edges={edges} />
       <Main edges={edges} />
       <Modal edges={edges} />
@@ -41,9 +41,11 @@ function App({ edges }) {
   );
 }
 
-function Header({ edges }) {
+function Header({ edges, option }) {
   return (
-    <header className="row row-between">
+    <header
+      className={option === "home" ? "row row-between" : "header--with-detail"}
+    >
       <a href="#" className="header__logo">
         <svg
           aria-label="Instagram"
@@ -432,22 +434,14 @@ function PostItem({ edge, option, edges }) {
   return (
     <div className={"post" + " " + option}>
       <header className="post__header row row-between">
-        <div
+        <a
+          href={"detail.html?id=" + edge.id}
           className={"header__user" + " " + "header__user-" + edge.id}
           onMouseOver={fadeMiniProfile(edge.id)}
           onMouseOut={hiddenMiniProfile(edge.id)}
         >
           <div className="header__user--nothover row">
-            <div className="user__avatar">
-              <div>
-                <img
-                  crossOrigin="anonymous"
-                  src={edge.display_resources[0].src}
-                  alt={edge.owner.username}
-                />
-              </div>
-            </div>
-
+            <UserAvatar edge={edge} />
             <div className="user__inf">
               <h4 className="user__inf__name">{edge.owner.username}</h4>
 
@@ -459,7 +453,7 @@ function PostItem({ edge, option, edges }) {
           <div className="header__user--hover">
             <MiniProfile edge={edge} />
           </div>
-        </div>
+        </a>
 
         <div className="header__options">
           <svg
@@ -479,7 +473,7 @@ function PostItem({ edge, option, edges }) {
         <div className="main__image">
           <img
             crossOrigin="anonymous"
-            src={edge.display_resources[0].src}
+            src={edge.pinned_for_users[0].src}
             alt={edge.owner.username}
             onDoubleClick={likedDbl(edge.id, edge.viewer_has_liked)}
           />
@@ -643,6 +637,20 @@ function PostItem({ edge, option, edges }) {
   );
 }
 
+function UserAvatar({ edge }) {
+  return (
+    <div className="user__avatar">
+      <div>
+        <img
+          crossOrigin="anonymous"
+          src={edge.thumbnail_resources[0].src}
+          alt={edge.owner.username}
+        />
+      </div>
+    </div>
+  );
+}
+
 function MiniProfile({ edge }) {
   return (
     <div className="mini-profile">
@@ -697,7 +705,7 @@ function MiniProfile({ edge }) {
                 (edge.edge_media_to_comment.count > 0 &&
                   edge.edge_media_to_comment.count)}
             </h4>
-            <span>Following</span>
+            <span>Your Friends Following</span>
           </div>
         </div>
 

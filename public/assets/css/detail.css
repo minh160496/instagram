@@ -1,0 +1,148 @@
+header .header__logo,
+header .header--with-input {
+  display: none;
+}
+
+.header--with-detail .detail-header {
+  display: grid;
+  place-content: center;
+  position: relative;
+}
+
+.detail-header__icon {
+  position: absolute;
+  left: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 25px;
+  height: 25px;
+  color: #333;
+  cursor: pointer;
+  transition: opacity ease 0.3s;
+}
+
+.detail-header__icon:hover {
+  opacity: 0.8;
+}
+
+.user__inf .icon {
+  width: 25px;
+  height: 25px;
+  color: #333;
+}
+
+#app.detail main.main {
+  margin-top: 60px;
+  font-size: 1.4rem;
+}
+
+.main__head {
+  padding: 0 0 24px 18px;
+}
+
+.main__head__user .user__avatar {
+  inline-size: 80px;
+  block-size: 80px;
+}
+
+.user__inf {
+  padding-right: 14px;
+}
+
+.user__inf__head {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.user__inf__head .head--text h4 {
+  font-size: 2.5rem;
+  font-weight: 500;
+}
+
+.head--icon.icon {
+  justify-self: end;
+  align-self: center;
+}
+
+.user__inf__body {
+  grid-column: 1/3;
+}
+
+.user__inf__body .body__btn + .body__btn {
+  margin-left: 12px;
+}
+
+.user__inf__body .body__btn {
+  background-color: rgb(243, 243, 243);
+  padding: 4px 8px;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all ease 0.4s;
+}
+
+.user__inf__body .body__btn:hover {
+  background-color: rgb(196, 195, 195);
+}
+
+.user__inf--with-follow {
+  display: none;
+}
+
+.main__head__about.about--not-mobile {
+  display: none;
+}
+
+.about--view span {
+  color: #ccc;
+}
+
+.about--view a {
+  color: #333;
+  cursor: pointer;
+}
+
+.content__head__item .icon {
+  width: 25px;
+  height: 25px;
+  color: #333;
+}
+
+.content__body__item {
+  aspect-ratio: 1/1;
+}
+
+.content__body__item img {
+  inline-size: 100%;
+  block-size: 100%;
+  object-fit: cover;
+  margin-bottom: -4px;
+}
+
+.main__body__head {
+  padding: 18px 12px;
+  border-bottom: 1px solid rgb(230, 228, 228);
+  border-top: 1px solid rgb(230, 228, 228);
+}
+
+.body__head__item .item--number {
+  font-weight: 700;
+}
+
+.body__head__item .item--text {
+  color: rgb(133, 132, 132);
+}
+
+.content__head__item {
+  flex: 1;
+  padding: 14px 0;
+  cursor: pointer;
+}
+
+.content__body--img {
+  gap: 4px;
+}
+
+.content__body__item--absl {
+  display: none;
+}
