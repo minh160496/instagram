@@ -2,7 +2,7 @@ const app = document.querySelector("#app");
 
 const appReact = ReactDOM.createRoot(app);
 
-const api = "http://localhost:3000/edges";
+const api = "https://api-instagram.vercel.app/edges";
 let search = "";
 let isHasHtr = true;
 
