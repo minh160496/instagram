@@ -1190,7 +1190,6 @@ const prevSlided = () => (e) => {
 const fadeModal = (id) => (e) => {
   const modal = e.target.closest("#app").querySelector(".modal");
   const modalContents = modal.querySelectorAll(".modal__content");
-  console.log(modalContents);
   for (let i = 0; i < modalContents.length; i++) {
     modalContents[i].classList.remove("active");
   }
