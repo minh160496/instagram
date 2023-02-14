@@ -358,17 +358,19 @@ function SearchElmPC({ edges }) {
 
 function Main({ edges }) {
   return (
-    <main className="main lgrid l6-6" onClick={hiddenSearch()}>
-      <div className="main--left">
-        <MainBanner edges={edges} />
-        <Posts edges={edges} />
-      </div>
+    <main className="main" onClick={hiddenSearch()}>
+      <div className="main-wrapper lgrid l6-6">
+        <div className="main--left">
+          <MainBanner edges={edges} />
+          <Posts edges={edges} />
+        </div>
 
-      <div className="main--right">
-        <div className="main--rigth-wrap">
-          <MainRightHead edges={edges} />
-          <MainRightBody edges={edges} />
-          <MainFooter edges={edges} />
+        <div className="main--right">
+          <div className="main--rigth-wrap">
+            <MainRightHead edges={edges} />
+            <MainRightBody edges={edges} />
+            <MainFooter edges={edges} />
+          </div>
         </div>
       </div>
     </main>

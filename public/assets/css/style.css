@@ -311,6 +311,12 @@ nav .nav__list {
   margin-top: 80px;
 }
 
+.main-wrapper {
+  margin: 0 auto;
+  max-inline-size: 832px;
+  align-items: flex-start;
+}
+
 .main__banner {
   position: relative;
   border-radius: 8px;

@@ -1,4 +1,4 @@
-@media (min-width: 748px) and (max-width: 1280px) {
+@media (min-width: 768px) and (max-width: 1200px) {
   .mcol {
     display: flex;
     flex-direction: column;
@@ -115,7 +115,7 @@
   }
 }
 
-@media (min-width: 1281px) {
+@media (min-width: 1201px) {
   .lgrid {
     display: grid;
   }
@@ -346,10 +346,15 @@
     box-sizing: content-box;
   }
 
+  .main-wrapper {
+    margin: 0 auto;
+    max-inline-size: 832px;
+  }
+
   .main--left {
     display: flex;
     flex-direction: column;
-    align-items: flex-end;
+    align-items: flex-start;
   }
 
   .main__banner {
@@ -358,7 +363,9 @@
   }
 
   .main--right {
-    display: block;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
   }
 
   .modal .modal__content {
